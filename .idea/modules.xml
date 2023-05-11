@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Vishort/app/build/generated/ap_generated_sources/ap_generated_sources.iml" filepath="$PROJECT_DIR$/Vishort/app/build/generated/ap_generated_sources/ap_generated_sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vishort/app/build/generated/data_binding_base_class_source_out/data_binding_base_class_source_out.iml" filepath="$PROJECT_DIR$/Vishort/app/build/generated/data_binding_base_class_source_out/data_binding_base_class_source_out.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vishort/app/build/generated/data_binding_trigger/data_binding_trigger.iml" filepath="$PROJECT_DIR$/Vishort/app/build/generated/data_binding_trigger/data_binding_trigger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vishort/app/build/generated/source/generated.iml" filepath="$PROJECT_DIR$/Vishort/app/build/generated/source/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vishort.iml" filepath="$PROJECT_DIR$/.idea/vishort.iml" />
+    </modules>
+  </component>
+</project>
