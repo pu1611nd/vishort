@@ -1,0 +1,364 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tuan1611pupu.vishort"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:5:5-70
+8        android:minSdkVersion="23"
+8-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:5:5-70
+9        android:targetSdkVersion="33" />
+9-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:5:5-70
+10
+11    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+11-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:7:5-76
+11-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:7:22-73
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:8:5-67
+12-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:8:22-64
+13    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+13-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:9:5-71
+13-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:9:22-68
+14    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+14-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:10:5-80
+14-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:10:22-77
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:11:5-79
+15-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:11:22-76
+16    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+16-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:12:5-75
+16-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:12:22-72
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:13:5-65
+17-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:13:22-62
+18
+19    <uses-feature android:name="android.hardware.camera" />
+19-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:15:5-60
+19-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:15:19-57
+20
+21    <uses-permission android:name="android.permission.BLUETOOTH" />
+21-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:17:5-68
+21-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:17:22-65
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:18:5-81
+22-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:18:22-78
+23    <uses-permission android:name="com.android.vending.BILLING" />
+23-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:19:5-67
+23-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:19:22-64
+24    <uses-permission android:name="android.permission.PREVENT_POWER_KEY" />
+24-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:20:5-76
+24-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:20:22-73
+25    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+25-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:21:5-88
+25-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:21:22-85
+26    <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
+26-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:22:5-90
+26-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:22:22-87
+27    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+27-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:23:5-77
+27-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:23:22-74
+28    <uses-permission android:name="android.permission.WAKE_LOCK" />
+28-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:24:5-68
+28-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:24:22-65
+29    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+29-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:25:5-81
+29-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:25:22-78
+30    <uses-permission android:name="android.permission.VIBRATE" />
+30-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:26:5-66
+30-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:26:22-63
+31    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+31-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:27:5-78
+31-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:27:22-75
+32
+33    <permission android:name="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" />
+33-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:29:5-88
+33-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:29:17-85
+34    <permission
+34-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:30:5-32:58
+35        android:name="android.permission.CAPTURE_AUDIO_OUTPUT"
+35-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:31:9-63
+36        android:protectionLevel="signature|privileged" />
+36-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:32:9-55
+37
+38    <uses-feature android:name="android.hardware.camera.autofocus" />
+38-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:34:5-70
+38-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:34:19-67
+39
+40    <queries>
+40-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:17:5-19:15
+41        <package android:name="com.facebook.katana" />
+41-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:18:9-55
+41-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:18:18-52
+42    </queries>
+43
+44    <uses-feature
+44-->[com.otaliastudios:cameraview:2.6.4] /Users/nguyentuan/.gradle/caches/transforms-3/1e2a287c71c0ad40f9a470cc96d7ef04/transformed/jetified-cameraview-2.6.4/AndroidManifest.xml:27:5-29:36
+45        android:name="android.hardware.camera.front"
+45-->[com.otaliastudios:cameraview:2.6.4] /Users/nguyentuan/.gradle/caches/transforms-3/1e2a287c71c0ad40f9a470cc96d7ef04/transformed/jetified-cameraview-2.6.4/AndroidManifest.xml:28:9-53
+46        android:required="false" />
+46-->[com.otaliastudios:cameraview:2.6.4] /Users/nguyentuan/.gradle/caches/transforms-3/1e2a287c71c0ad40f9a470cc96d7ef04/transformed/jetified-cameraview-2.6.4/AndroidManifest.xml:29:9-33
+47    <uses-feature
+47-->[com.otaliastudios:cameraview:2.6.4] /Users/nguyentuan/.gradle/caches/transforms-3/1e2a287c71c0ad40f9a470cc96d7ef04/transformed/jetified-cameraview-2.6.4/AndroidManifest.xml:30:5-32:36
+48        android:name="android.hardware.microphone"
+48-->[com.otaliastudios:cameraview:2.6.4] /Users/nguyentuan/.gradle/caches/transforms-3/1e2a287c71c0ad40f9a470cc96d7ef04/transformed/jetified-cameraview-2.6.4/AndroidManifest.xml:31:9-51
+49        android:required="false" />
+49-->[com.otaliastudios:cameraview:2.6.4] /Users/nguyentuan/.gradle/caches/transforms-3/1e2a287c71c0ad40f9a470cc96d7ef04/transformed/jetified-cameraview-2.6.4/AndroidManifest.xml:32:9-33
+50
+51    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+51-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:16:5-79
+51-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:16:22-76
+52
+53    <permission
+53-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+54        android:name="com.tuan1611pupu.vishort.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+54-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+55        android:protectionLevel="signature" />
+55-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+56
+57    <uses-permission android:name="com.tuan1611pupu.vishort.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+57-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+57-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+58    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+58-->[com.android.installreferrer:installreferrer:1.0] /Users/nguyentuan/.gradle/caches/transforms-3/22826d59adbacb8f849218898754a262/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+58-->[com.android.installreferrer:installreferrer:1.0] /Users/nguyentuan/.gradle/caches/transforms-3/22826d59adbacb8f849218898754a262/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+59
+60    <application
+60-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:36:5-100:19
+61        android:allowBackup="true"
+61-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:37:9-35
+62        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+62-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+63        android:dataExtractionRules="@xml/data_extraction_rules"
+63-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:38:9-65
+64        android:debuggable="true"
+65        android:extractNativeLibs="false"
+66        android:fullBackupContent="@xml/backup_rules"
+66-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:39:9-54
+67        android:icon="@mipmap/ic_launcher"
+67-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:40:9-43
+68        android:label="@string/app_name"
+68-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:41:9-41
+69        android:roundIcon="@mipmap/ic_launcher_round"
+69-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:42:9-54
+70        android:supportsRtl="true"
+70-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:43:9-35
+71        android:testOnly="true"
+72        android:theme="@style/Theme.Vishort" >
+72-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:44:9-45
+73        <activity
+73-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:46:9-52:20
+74            android:name="com.tuan1611pupu.vishort.Activity.LoginWithPhoneActivity"
+74-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:47:13-60
+75            android:exported="false" >
+75-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:48:13-37
+76            <meta-data
+76-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+77                android:name="android.app.lib_name"
+77-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+78                android:value="" />
+78-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+79        </activity>
+80        <activity
+80-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:53:9-59:20
+81            android:name="com.tuan1611pupu.vishort.Activity.PreviewActivity"
+81-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:54:13-53
+82            android:exported="false" >
+82-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:55:13-37
+83            <meta-data
+83-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+84                android:name="android.app.lib_name"
+84-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+85                android:value="" />
+85-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+86        </activity>
+87        <activity
+87-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:60:9-66:20
+88            android:name="com.tuan1611pupu.vishort.Activity.FilterActivity"
+88-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:61:13-52
+89            android:exported="false" >
+89-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:62:13-37
+90            <meta-data
+90-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+91                android:name="android.app.lib_name"
+91-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+92                android:value="" />
+92-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+93        </activity>
+94        <activity
+94-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:67:9-73:20
+95            android:name="com.tuan1611pupu.vishort.Activity.RecorderActivity"
+95-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:68:13-54
+96            android:exported="false" >
+96-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:69:13-37
+97            <meta-data
+97-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+98                android:name="android.app.lib_name"
+98-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+99                android:value="" />
+99-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+100        </activity>
+101        <activity
+101-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:74:9-80:20
+102            android:name="com.tuan1611pupu.vishort.Activity.RegisterActivity"
+102-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:75:13-54
+103            android:exported="false" >
+103-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:76:13-37
+104            <meta-data
+104-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+105                android:name="android.app.lib_name"
+105-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+106                android:value="" />
+106-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+107        </activity>
+108        <activity
+108-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:81:9-92:20
+109            android:name="com.tuan1611pupu.vishort.Activity.LogInActivity"
+109-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:82:13-51
+110            android:exported="true" >
+110-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:83:13-36
+111            <intent-filter>
+111-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:84:13-88:29
+112                <action android:name="android.intent.action.MAIN" />
+112-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:85:17-69
+112-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:85:25-66
+113
+114                <category android:name="android.intent.category.LAUNCHER" />
+114-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:87:17-77
+114-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:87:27-74
+115            </intent-filter>
+116
+117            <meta-data
+117-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+118                android:name="android.app.lib_name"
+118-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+119                android:value="" />
+119-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+120        </activity>
+121        <activity
+121-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:93:9-99:20
+122            android:name="com.tuan1611pupu.vishort.Activity.MainActivity"
+122-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:94:13-50
+123            android:exported="true" >
+123-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:95:13-36
+124            <meta-data
+124-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+125                android:name="android.app.lib_name"
+125-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+126                android:value="" />
+126-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+127        </activity>
+128        <activity
+128-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:22:9-25:66
+129            android:name="com.facebook.FacebookActivity"
+129-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:23:13-57
+130            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+130-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:24:13-96
+131            android:theme="@style/com_facebook_activity_theme" />
+131-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:25:13-63
+132        <activity android:name="com.facebook.CustomTabMainActivity" />
+132-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:26:9-71
+132-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:26:19-68
+133        <activity
+133-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:27:9-41:20
+134            android:name="com.facebook.CustomTabActivity"
+134-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:28:13-58
+135            android:exported="true" >
+135-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:29:13-36
+136            <intent-filter>
+136-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:31:13-40:29
+137                <action android:name="android.intent.action.VIEW" />
+137-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:32:17-69
+137-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:32:25-66
+138
+139                <category android:name="android.intent.category.DEFAULT" />
+139-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:34:17-76
+139-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:34:27-73
+140                <category android:name="android.intent.category.BROWSABLE" />
+140-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:35:17-78
+140-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:35:27-75
+141
+142                <data
+142-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:37:17-39:50
+143                    android:host="cct.com.tuan1611pupu.vishort"
+143-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:38:21-56
+144                    android:scheme="fbconnect" />
+144-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:39:21-47
+145            </intent-filter>
+146        </activity>
+147
+148        <meta-data
+148-->[com.google.android.gms:play-services-basement:17.4.0] /Users/nguyentuan/.gradle/caches/transforms-3/df63e48982d3bb799c6f4ecaf454523a/transformed/jetified-play-services-basement-17.4.0/AndroidManifest.xml:23:9-25:69
+149            android:name="com.google.android.gms.version"
+149-->[com.google.android.gms:play-services-basement:17.4.0] /Users/nguyentuan/.gradle/caches/transforms-3/df63e48982d3bb799c6f4ecaf454523a/transformed/jetified-play-services-basement-17.4.0/AndroidManifest.xml:24:13-58
+150            android:value="@integer/google_play_services_version" />
+150-->[com.google.android.gms:play-services-basement:17.4.0] /Users/nguyentuan/.gradle/caches/transforms-3/df63e48982d3bb799c6f4ecaf454523a/transformed/jetified-play-services-basement-17.4.0/AndroidManifest.xml:25:13-66
+151
+152        <provider
+152-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+153            android:name="androidx.startup.InitializationProvider"
+153-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+154            android:authorities="com.tuan1611pupu.vishort.androidx-startup"
+154-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+155            android:exported="false" >
+155-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+156            <meta-data
+156-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+157                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+157-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+158                android:value="androidx.startup" />
+158-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+159            <meta-data
+159-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nguyentuan/.gradle/caches/transforms-3/b369bfbc0941e1ef0477007e5533ba66/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+160                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+160-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nguyentuan/.gradle/caches/transforms-3/b369bfbc0941e1ef0477007e5533ba66/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+161                android:value="androidx.startup" />
+161-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nguyentuan/.gradle/caches/transforms-3/b369bfbc0941e1ef0477007e5533ba66/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+162        </provider>
+163        <!--
+164         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+165         with the application context. This config is merged in with the host app's manifest,
+166         but there can only be one provider with the same authority activated at any given
+167         point; so if the end user has two or more different apps that use Facebook SDK, only the
+168         first one will be able to use the provider. To work around this problem, we use the
+169         following placeholder in the authority to identify each host application as if it was
+170         a completely different provider.
+171        -->
+172        <provider
+172-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:29:9-32:40
+173            android:name="com.facebook.internal.FacebookInitProvider"
+173-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:30:13-70
+174            android:authorities="com.tuan1611pupu.vishort.FacebookInitProvider"
+174-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:31:13-72
+175            android:exported="false" />
+175-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:32:13-37
+176
+177        <receiver
+177-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:34:9-40:20
+178            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+178-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:35:13-86
+179            android:exported="false" >
+179-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:36:13-37
+180            <intent-filter>
+180-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:37:13-39:29
+181                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+181-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:38:17-95
+181-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:38:25-92
+182            </intent-filter>
+183        </receiver>
+184        <receiver
+184-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:41:9-47:20
+185            android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver"
+185-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:42:13-118
+186            android:exported="false" >
+186-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:43:13-37
+187            <intent-filter>
+187-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:44:13-46:29
+188                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
+188-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:45:17-103
+188-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:45:25-100
+189            </intent-filter>
+190        </receiver>
+191    </application>
+192
+193</manifest>
