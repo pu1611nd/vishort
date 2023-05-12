@@ -5,504 +5,511 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-7-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:5:5-70
+7-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:5:5-70
 8        android:minSdkVersion="23"
-8-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:5:5-70
+8-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:5:5-70
 9        android:targetSdkVersion="33" />
-9-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:5:5-70
+9-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:5:5-70
 10
 11    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-11-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:7:5-76
-11-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:7:22-73
+11-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:7:5-76
+11-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:7:22-73
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:8:5-67
-12-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:8:22-64
+12-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:8:5-67
+12-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:8:22-64
 13    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-13-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:9:5-71
-13-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:9:22-68
+13-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:9:5-71
+13-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:9:22-68
 14    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-14-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:10:5-80
-14-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:10:22-77
+14-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:10:5-80
+14-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:10:22-77
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-15-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:11:5-79
-15-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:11:22-76
+15-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:11:5-79
+15-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:11:22-76
 16    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-16-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:12:5-75
-16-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:12:22-72
+16-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:12:5-75
+16-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:12:22-72
 17    <uses-permission android:name="android.permission.CAMERA" />
-17-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:13:5-65
-17-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:13:22-62
+17-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:13:5-65
+17-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:13:22-62
 18
 19    <uses-feature android:name="android.hardware.camera" />
-19-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:15:5-60
-19-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:15:19-57
+19-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:15:5-60
+19-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:15:19-57
 20
 21    <uses-permission android:name="android.permission.BLUETOOTH" />
-21-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:17:5-68
-21-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:17:22-65
+21-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:17:5-68
+21-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:17:22-65
 22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-22-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:18:5-81
-22-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:18:22-78
+22-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:18:5-81
+22-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:18:22-78
 23    <uses-permission android:name="com.android.vending.BILLING" />
-23-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:19:5-67
-23-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:19:22-64
+23-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:19:5-67
+23-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:19:22-64
 24    <uses-permission android:name="android.permission.PREVENT_POWER_KEY" />
-24-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:20:5-76
-24-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:20:22-73
+24-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:20:5-76
+24-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:20:22-73
 25    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
-25-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:21:5-88
-25-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:21:22-85
+25-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:21:5-88
+25-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:21:22-85
 26    <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
-26-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:22:5-90
-26-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:22:22-87
+26-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:22:5-90
+26-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:22:22-87
 27    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-27-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:23:5-77
-27-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:23:22-74
+27-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:23:5-77
+27-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:23:22-74
 28    <uses-permission android:name="android.permission.WAKE_LOCK" />
-28-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:24:5-68
-28-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:24:22-65
+28-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:24:5-68
+28-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:24:22-65
 29    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
-29-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:25:5-81
-29-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:25:22-78
+29-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:25:5-81
+29-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:25:22-78
 30    <uses-permission android:name="android.permission.VIBRATE" />
-30-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:26:5-66
-30-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:26:22-63
+30-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:26:5-66
+30-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:26:22-63
 31    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-31-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:27:5-78
-31-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:27:22-75
+31-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:27:5-78
+31-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:27:22-75
 32
 33    <permission android:name="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" />
-33-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:29:5-88
-33-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:29:17-85
+33-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:29:5-88
+33-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:29:17-85
 34    <permission
-34-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:30:5-32:58
+34-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:30:5-32:58
 35        android:name="android.permission.CAPTURE_AUDIO_OUTPUT"
-35-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:31:9-63
+35-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:31:9-63
 36        android:protectionLevel="signature|privileged" />
-36-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:32:9-55
+36-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:32:9-55
 37
 38    <uses-feature android:name="android.hardware.camera.autofocus" />
-38-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:34:5-70
-38-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:34:19-67
+38-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:34:5-70
+38-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:34:19-67
 39
 40    <queries>
-40-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:17:5-19:15
+40-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:17:5-19:15
 41        <package android:name="com.facebook.katana" />
-41-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:18:9-55
-41-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:18:18-52
+41-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:18:9-55
+41-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:18:18-52
 42    </queries>
 43
 44    <uses-feature
-44-->[com.otaliastudios:cameraview:2.6.4] /Users/nguyentuan/.gradle/caches/transforms-3/1e2a287c71c0ad40f9a470cc96d7ef04/transformed/jetified-cameraview-2.6.4/AndroidManifest.xml:27:5-29:36
+44-->[com.otaliastudios:cameraview:2.6.4] C:\Users\nguye\.gradle\caches\transforms-3\1e2a287c71c0ad40f9a470cc96d7ef04\transformed\jetified-cameraview-2.6.4\AndroidManifest.xml:27:5-29:36
 45        android:name="android.hardware.camera.front"
-45-->[com.otaliastudios:cameraview:2.6.4] /Users/nguyentuan/.gradle/caches/transforms-3/1e2a287c71c0ad40f9a470cc96d7ef04/transformed/jetified-cameraview-2.6.4/AndroidManifest.xml:28:9-53
+45-->[com.otaliastudios:cameraview:2.6.4] C:\Users\nguye\.gradle\caches\transforms-3\1e2a287c71c0ad40f9a470cc96d7ef04\transformed\jetified-cameraview-2.6.4\AndroidManifest.xml:28:9-53
 46        android:required="false" />
-46-->[com.otaliastudios:cameraview:2.6.4] /Users/nguyentuan/.gradle/caches/transforms-3/1e2a287c71c0ad40f9a470cc96d7ef04/transformed/jetified-cameraview-2.6.4/AndroidManifest.xml:29:9-33
+46-->[com.otaliastudios:cameraview:2.6.4] C:\Users\nguye\.gradle\caches\transforms-3\1e2a287c71c0ad40f9a470cc96d7ef04\transformed\jetified-cameraview-2.6.4\AndroidManifest.xml:29:9-33
 47    <uses-feature
-47-->[com.otaliastudios:cameraview:2.6.4] /Users/nguyentuan/.gradle/caches/transforms-3/1e2a287c71c0ad40f9a470cc96d7ef04/transformed/jetified-cameraview-2.6.4/AndroidManifest.xml:30:5-32:36
+47-->[com.otaliastudios:cameraview:2.6.4] C:\Users\nguye\.gradle\caches\transforms-3\1e2a287c71c0ad40f9a470cc96d7ef04\transformed\jetified-cameraview-2.6.4\AndroidManifest.xml:30:5-32:36
 48        android:name="android.hardware.microphone"
-48-->[com.otaliastudios:cameraview:2.6.4] /Users/nguyentuan/.gradle/caches/transforms-3/1e2a287c71c0ad40f9a470cc96d7ef04/transformed/jetified-cameraview-2.6.4/AndroidManifest.xml:31:9-51
+48-->[com.otaliastudios:cameraview:2.6.4] C:\Users\nguye\.gradle\caches\transforms-3\1e2a287c71c0ad40f9a470cc96d7ef04\transformed\jetified-cameraview-2.6.4\AndroidManifest.xml:31:9-51
 49        android:required="false" />
-49-->[com.otaliastudios:cameraview:2.6.4] /Users/nguyentuan/.gradle/caches/transforms-3/1e2a287c71c0ad40f9a470cc96d7ef04/transformed/jetified-cameraview-2.6.4/AndroidManifest.xml:32:9-33
+49-->[com.otaliastudios:cameraview:2.6.4] C:\Users\nguye\.gradle\caches\transforms-3\1e2a287c71c0ad40f9a470cc96d7ef04\transformed\jetified-cameraview-2.6.4\AndroidManifest.xml:32:9-33
 50
 51    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-51-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:16:5-79
-51-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:16:22-76
+51-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:16:5-79
+51-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:16:22-76
 52
 53    <permission
-53-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+53-->[androidx.core:core:1.9.0] C:\Users\nguye\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 54        android:name="com.tuan1611pupu.vishort.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-54-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+54-->[androidx.core:core:1.9.0] C:\Users\nguye\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 55        android:protectionLevel="signature" />
-55-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+55-->[androidx.core:core:1.9.0] C:\Users\nguye\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 56
 57    <uses-permission android:name="com.tuan1611pupu.vishort.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-57-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
-57-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+57-->[androidx.core:core:1.9.0] C:\Users\nguye\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+57-->[androidx.core:core:1.9.0] C:\Users\nguye\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 58    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-58-->[com.android.installreferrer:installreferrer:1.0] /Users/nguyentuan/.gradle/caches/transforms-3/22826d59adbacb8f849218898754a262/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
-58-->[com.android.installreferrer:installreferrer:1.0] /Users/nguyentuan/.gradle/caches/transforms-3/22826d59adbacb8f849218898754a262/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+58-->[com.android.installreferrer:installreferrer:1.0] C:\Users\nguye\.gradle\caches\transforms-3\22826d59adbacb8f849218898754a262\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+58-->[com.android.installreferrer:installreferrer:1.0] C:\Users\nguye\.gradle\caches\transforms-3\22826d59adbacb8f849218898754a262\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
 59
 60    <application
-60-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:36:5-108:19
+60-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:36:5-113:19
 61        android:allowBackup="true"
-61-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:37:9-35
+61-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:37:9-35
 62        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-62-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+62-->[androidx.core:core:1.9.0] C:\Users\nguye\.gradle\caches\transforms-3\c9d1df73793a88888b9fc2986788e2da\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 63        android:dataExtractionRules="@xml/data_extraction_rules"
-63-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:38:9-65
+63-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:38:9-65
 64        android:debuggable="true"
 65        android:extractNativeLibs="false"
 66        android:fullBackupContent="@xml/backup_rules"
-66-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:39:9-54
+66-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:39:9-54
 67        android:icon="@mipmap/ic_launcher"
-67-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:40:9-43
+67-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:40:9-43
 68        android:label="@string/app_name"
-68-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:41:9-41
+68-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:41:9-41
 69        android:roundIcon="@mipmap/ic_launcher_round"
-69-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:42:9-54
+69-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:42:9-54
 70        android:supportsRtl="true"
-70-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:43:9-35
+70-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:43:9-35
 71        android:testOnly="true"
 72        android:theme="@style/Theme.Vishort" >
-72-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:44:9-45
+72-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:44:9-45
 73        <activity
-73-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:46:9-52:20
+73-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:46:9-52:20
 74            android:name="com.tuan1611pupu.vishort.UploadVideoActivity"
-74-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:47:13-48
+74-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:47:13-48
 75            android:exported="false" >
-75-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:48:13-37
+75-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:48:13-37
 76            <meta-data
-76-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+76-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:49:13-51:36
 77                android:name="android.app.lib_name"
-77-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+77-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:50:17-52
 78                android:value="" />
-78-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+78-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:51:17-33
 79        </activity>
 80        <activity
-80-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:53:9-59:20
+80-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:53:9-59:20
 81            android:name="com.tuan1611pupu.vishort.Activity.LoginWithPhoneActivity"
-81-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:54:13-60
+81-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:54:13-60
 82            android:exported="false" >
-82-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:55:13-37
+82-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:55:13-37
 83            <meta-data
-83-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+83-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:49:13-51:36
 84                android:name="android.app.lib_name"
-84-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+84-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:50:17-52
 85                android:value="" />
-85-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+85-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:51:17-33
 86        </activity>
 87        <activity
-87-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:60:9-66:20
+87-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:60:9-66:20
 88            android:name="com.tuan1611pupu.vishort.Activity.PreviewActivity"
-88-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:61:13-53
+88-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:61:13-53
 89            android:exported="false" >
-89-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:62:13-37
+89-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:62:13-37
 90            <meta-data
-90-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+90-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:49:13-51:36
 91                android:name="android.app.lib_name"
-91-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+91-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:50:17-52
 92                android:value="" />
-92-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+92-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:51:17-33
 93        </activity>
 94        <activity
-94-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:67:9-73:20
+94-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:67:9-73:20
 95            android:name="com.tuan1611pupu.vishort.Activity.FilterActivity"
-95-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:68:13-52
+95-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:68:13-52
 96            android:exported="false" >
-96-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:69:13-37
+96-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:69:13-37
 97            <meta-data
-97-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+97-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:49:13-51:36
 98                android:name="android.app.lib_name"
-98-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+98-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:50:17-52
 99                android:value="" />
-99-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+99-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:51:17-33
 100        </activity>
 101        <activity
-101-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:74:9-80:20
+101-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:74:9-80:20
 102            android:name="com.tuan1611pupu.vishort.Activity.RecorderActivity"
-102-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:75:13-54
+102-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:75:13-54
 103            android:exported="false" >
-103-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:76:13-37
+103-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:76:13-37
 104            <meta-data
-104-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+104-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:49:13-51:36
 105                android:name="android.app.lib_name"
-105-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+105-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:50:17-52
 106                android:value="" />
-106-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+106-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:51:17-33
 107        </activity>
 108        <activity
-108-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:81:9-87:20
+108-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:81:9-87:20
 109            android:name="com.tuan1611pupu.vishort.Activity.RegisterActivity"
-109-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:82:13-54
+109-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:82:13-54
 110            android:exported="false" >
-110-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:83:13-37
+110-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:83:13-37
 111            <meta-data
-111-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+111-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:49:13-51:36
 112                android:name="android.app.lib_name"
-112-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+112-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:50:17-52
 113                android:value="" />
-113-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+113-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:51:17-33
 114        </activity>
 115        <activity
-115-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:88:9-100:20
+115-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:88:9-100:20
 116            android:name="com.tuan1611pupu.vishort.Activity.LogInActivity"
-116-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:89:13-51
+116-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:89:13-51
 117            android:exported="true" >
-117-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:90:13-36
+117-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:90:13-36
 118            <intent-filter>
-118-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:91:13-95:29
+118-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:91:13-95:29
 119                <action android:name="android.intent.action.MAIN" />
-119-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:92:17-69
-119-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:92:25-66
+119-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:92:17-69
+119-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:92:25-66
 120
 121                <category android:name="android.intent.category.LAUNCHER" />
-121-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:94:17-77
-121-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:94:27-74
+121-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:94:17-77
+121-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:94:27-74
 122            </intent-filter>
 123
 124            <meta-data
-124-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
+124-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:49:13-51:36
 125                android:name="android.app.lib_name"
-125-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
+125-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:50:17-52
 126                android:value="" />
-126-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
+126-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:51:17-33
 127        </activity>
 128        <activity
-128-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:101:9-107:20
+128-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:101:9-112:20
 129            android:name="com.tuan1611pupu.vishort.Activity.MainActivity"
-129-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:102:13-50
-130            android:exported="true" >
-130-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:103:13-36
-131            <meta-data
-131-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:49:13-51:36
-132                android:name="android.app.lib_name"
-132-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:50:17-52
-133                android:value="" />
-133-->/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/AndroidManifest.xml:51:17-33
-134        </activity>
-135        <activity
-135-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:22:9-25:66
-136            android:name="com.facebook.FacebookActivity"
-136-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:23:13-57
-137            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-137-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:24:13-96
-138            android:theme="@style/com_facebook_activity_theme" />
-138-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:25:13-63
-139        <activity android:name="com.facebook.CustomTabMainActivity" />
-139-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:26:9-71
-139-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:26:19-68
-140        <activity
-140-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:27:9-41:20
-141            android:name="com.facebook.CustomTabActivity"
-141-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:28:13-58
-142            android:exported="true" >
-142-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:29:13-36
-143            <intent-filter>
-143-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:31:13-40:29
-144                <action android:name="android.intent.action.VIEW" />
-144-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:32:17-69
-144-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:32:25-66
-145
-146                <category android:name="android.intent.category.DEFAULT" />
-146-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:34:17-76
-146-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:34:27-73
-147                <category android:name="android.intent.category.BROWSABLE" />
-147-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:35:17-78
-147-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:35:27-75
-148
-149                <data
-149-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:37:17-39:50
-150                    android:host="cct.com.tuan1611pupu.vishort"
-150-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:38:21-56
-151                    android:scheme="fbconnect" />
-151-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:39:21-47
-152            </intent-filter>
-153        </activity>
-154        <activity
-154-->[com.google.android.gms:play-services-auth:20.5.0] /Users/nguyentuan/.gradle/caches/transforms-3/9f4862b8a877e52c5c52d65112cd6df5/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:23:9-27:75
-155            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-155-->[com.google.android.gms:play-services-auth:20.5.0] /Users/nguyentuan/.gradle/caches/transforms-3/9f4862b8a877e52c5c52d65112cd6df5/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:24:13-93
-156            android:excludeFromRecents="true"
-156-->[com.google.android.gms:play-services-auth:20.5.0] /Users/nguyentuan/.gradle/caches/transforms-3/9f4862b8a877e52c5c52d65112cd6df5/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:25:13-46
-157            android:exported="false"
-157-->[com.google.android.gms:play-services-auth:20.5.0] /Users/nguyentuan/.gradle/caches/transforms-3/9f4862b8a877e52c5c52d65112cd6df5/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:26:13-37
-158            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-158-->[com.google.android.gms:play-services-auth:20.5.0] /Users/nguyentuan/.gradle/caches/transforms-3/9f4862b8a877e52c5c52d65112cd6df5/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:27:13-72
-159        <!--
-160            Service handling Google Sign-In user revocation. For apps that do not integrate with
-161            Google Sign-In, this service will never be started.
-162        -->
-163        <service
-163-->[com.google.android.gms:play-services-auth:20.5.0] /Users/nguyentuan/.gradle/caches/transforms-3/9f4862b8a877e52c5c52d65112cd6df5/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:33:9-37:51
-164            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-164-->[com.google.android.gms:play-services-auth:20.5.0] /Users/nguyentuan/.gradle/caches/transforms-3/9f4862b8a877e52c5c52d65112cd6df5/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:34:13-89
-165            android:exported="true"
-165-->[com.google.android.gms:play-services-auth:20.5.0] /Users/nguyentuan/.gradle/caches/transforms-3/9f4862b8a877e52c5c52d65112cd6df5/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:35:13-36
-166            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
-166-->[com.google.android.gms:play-services-auth:20.5.0] /Users/nguyentuan/.gradle/caches/transforms-3/9f4862b8a877e52c5c52d65112cd6df5/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:36:13-107
-167            android:visibleToInstantApps="true" />
-167-->[com.google.android.gms:play-services-auth:20.5.0] /Users/nguyentuan/.gradle/caches/transforms-3/9f4862b8a877e52c5c52d65112cd6df5/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:37:13-48
-168
-169        <activity
-169-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:29:9-46:20
-170            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-170-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:30:13-80
-171            android:excludeFromRecents="true"
-171-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:31:13-46
+129-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:102:13-50
+130            android:exported="false" >
+130-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:103:13-37
+131
+132            <!-- <intent-filter> -->
+133            <!-- <action android:name="android.intent.action.MAIN" /> -->
+134
+135
+136            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+137            <!-- </intent-filter> -->
+138            <meta-data
+138-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:49:13-51:36
+139                android:name="android.app.lib_name"
+139-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:50:17-52
+140                android:value="" />
+140-->F:\AndroidProjects\vishort\Vishort\app\src\main\AndroidManifest.xml:51:17-33
+141        </activity>
+142        <activity
+142-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:22:9-25:66
+143            android:name="com.facebook.FacebookActivity"
+143-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:23:13-57
+144            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+144-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:24:13-96
+145            android:theme="@style/com_facebook_activity_theme" />
+145-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:25:13-63
+146        <activity android:name="com.facebook.CustomTabMainActivity" />
+146-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:26:9-71
+146-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:26:19-68
+147        <activity
+147-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:27:9-41:20
+148            android:name="com.facebook.CustomTabActivity"
+148-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:28:13-58
+149            android:exported="true" >
+149-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:29:13-36
+150            <intent-filter>
+150-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:31:13-40:29
+151                <action android:name="android.intent.action.VIEW" />
+151-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:32:17-69
+151-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:32:25-66
+152
+153                <category android:name="android.intent.category.DEFAULT" />
+153-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:34:17-76
+153-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:34:27-73
+154                <category android:name="android.intent.category.BROWSABLE" />
+154-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:35:17-78
+154-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:35:27-75
+155
+156                <data
+156-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:37:17-39:50
+157                    android:host="cct.com.tuan1611pupu.vishort"
+157-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:38:21-56
+158                    android:scheme="fbconnect" />
+158-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:39:21-47
+159            </intent-filter>
+160        </activity>
+161        <activity
+161-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\nguye\.gradle\caches\transforms-3\9f4862b8a877e52c5c52d65112cd6df5\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:23:9-27:75
+162            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+162-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\nguye\.gradle\caches\transforms-3\9f4862b8a877e52c5c52d65112cd6df5\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:24:13-93
+163            android:excludeFromRecents="true"
+163-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\nguye\.gradle\caches\transforms-3\9f4862b8a877e52c5c52d65112cd6df5\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:25:13-46
+164            android:exported="false"
+164-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\nguye\.gradle\caches\transforms-3\9f4862b8a877e52c5c52d65112cd6df5\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:26:13-37
+165            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+165-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\nguye\.gradle\caches\transforms-3\9f4862b8a877e52c5c52d65112cd6df5\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:27:13-72
+166        <!--
+167            Service handling Google Sign-In user revocation. For apps that do not integrate with
+168            Google Sign-In, this service will never be started.
+169        -->
+170        <service
+170-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\nguye\.gradle\caches\transforms-3\9f4862b8a877e52c5c52d65112cd6df5\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:33:9-37:51
+171            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+171-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\nguye\.gradle\caches\transforms-3\9f4862b8a877e52c5c52d65112cd6df5\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:34:13-89
 172            android:exported="true"
-172-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:32:13-36
-173            android:launchMode="singleTask"
-173-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:33:13-44
-174            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-174-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:34:13-72
-175            <intent-filter>
-175-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:35:13-45:29
-176                <action android:name="android.intent.action.VIEW" />
-176-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:32:17-69
-176-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:32:25-66
-177
-178                <category android:name="android.intent.category.DEFAULT" />
-178-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:34:17-76
-178-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:34:27-73
-179                <category android:name="android.intent.category.BROWSABLE" />
-179-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:35:17-78
-179-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:35:27-75
-180
-181                <data
-181-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:37:17-39:50
-182                    android:host="firebase.auth"
-182-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:38:21-56
-183                    android:path="/"
-184                    android:scheme="genericidp" />
-184-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:39:21-47
-185            </intent-filter>
-186        </activity>
-187        <activity
-187-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:47:9-64:20
-188            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-188-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:48:13-79
-189            android:excludeFromRecents="true"
-189-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:49:13-46
-190            android:exported="true"
-190-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:50:13-36
-191            android:launchMode="singleTask"
-191-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:51:13-44
-192            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-192-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:52:13-72
-193            <intent-filter>
-193-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:53:13-63:29
-194                <action android:name="android.intent.action.VIEW" />
-194-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:32:17-69
-194-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:32:25-66
-195
-196                <category android:name="android.intent.category.DEFAULT" />
-196-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:34:17-76
-196-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:34:27-73
-197                <category android:name="android.intent.category.BROWSABLE" />
-197-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:35:17-78
-197-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:35:27-75
-198
-199                <data
-199-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:37:17-39:50
-200                    android:host="firebase.auth"
-200-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:38:21-56
-201                    android:path="/"
-202                    android:scheme="recaptcha" />
-202-->[com.facebook.android:facebook-common:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:39:21-47
-203            </intent-filter>
-204        </activity>
+172-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\nguye\.gradle\caches\transforms-3\9f4862b8a877e52c5c52d65112cd6df5\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:35:13-36
+173            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+173-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\nguye\.gradle\caches\transforms-3\9f4862b8a877e52c5c52d65112cd6df5\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:36:13-107
+174            android:visibleToInstantApps="true" />
+174-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\nguye\.gradle\caches\transforms-3\9f4862b8a877e52c5c52d65112cd6df5\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:37:13-48
+175
+176        <activity
+176-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:29:9-46:20
+177            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+177-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:30:13-80
+178            android:excludeFromRecents="true"
+178-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:31:13-46
+179            android:exported="true"
+179-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:32:13-36
+180            android:launchMode="singleTask"
+180-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:33:13-44
+181            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+181-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:34:13-72
+182            <intent-filter>
+182-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:35:13-45:29
+183                <action android:name="android.intent.action.VIEW" />
+183-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:32:17-69
+183-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:32:25-66
+184
+185                <category android:name="android.intent.category.DEFAULT" />
+185-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:34:17-76
+185-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:34:27-73
+186                <category android:name="android.intent.category.BROWSABLE" />
+186-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:35:17-78
+186-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:35:27-75
+187
+188                <data
+188-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:37:17-39:50
+189                    android:host="firebase.auth"
+189-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:38:21-56
+190                    android:path="/"
+191                    android:scheme="genericidp" />
+191-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:39:21-47
+192            </intent-filter>
+193        </activity>
+194        <activity
+194-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:47:9-64:20
+195            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+195-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:48:13-79
+196            android:excludeFromRecents="true"
+196-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:49:13-46
+197            android:exported="true"
+197-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:50:13-36
+198            android:launchMode="singleTask"
+198-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:51:13-44
+199            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+199-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:52:13-72
+200            <intent-filter>
+200-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:53:13-63:29
+201                <action android:name="android.intent.action.VIEW" />
+201-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:32:17-69
+201-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:32:25-66
+202
+203                <category android:name="android.intent.category.DEFAULT" />
+203-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:34:17-76
+203-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:34:27-73
+204                <category android:name="android.intent.category.BROWSABLE" />
+204-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:35:17-78
+204-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:35:27-75
 205
-206        <service
-206-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:66:9-72:19
-207            android:name="com.google.firebase.components.ComponentDiscoveryService"
-207-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:67:13-84
-208            android:directBootAware="true"
-208-->[com.google.firebase:firebase-common:20.3.2] /Users/nguyentuan/.gradle/caches/transforms-3/2a0fad2de11aae80af632de1808449b7/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:34:13-43
-209            android:exported="false" >
-209-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:68:13-37
-210            <meta-data
-210-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:69:13-71:85
-211                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-211-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:70:17-109
-212                android:value="com.google.firebase.components.ComponentRegistrar" />
-212-->[com.google.firebase:firebase-auth:22.0.0] /Users/nguyentuan/.gradle/caches/transforms-3/1657266959447924da06e74d55559184/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:71:17-82
-213        </service>
-214
-215        <activity
-215-->[com.google.android.gms:play-services-base:18.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/03620ac658df2a287bbba0e16dfa8ce7/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
-216            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-216-->[com.google.android.gms:play-services-base:18.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/03620ac658df2a287bbba0e16dfa8ce7/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
-217            android:exported="false"
-217-->[com.google.android.gms:play-services-base:18.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/03620ac658df2a287bbba0e16dfa8ce7/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
-218            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-218-->[com.google.android.gms:play-services-base:18.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/03620ac658df2a287bbba0e16dfa8ce7/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
-219
-220        <provider
-220-->[com.google.firebase:firebase-common:20.3.2] /Users/nguyentuan/.gradle/caches/transforms-3/2a0fad2de11aae80af632de1808449b7/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:25:9-30:39
-221            android:name="com.google.firebase.provider.FirebaseInitProvider"
-221-->[com.google.firebase:firebase-common:20.3.2] /Users/nguyentuan/.gradle/caches/transforms-3/2a0fad2de11aae80af632de1808449b7/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:26:13-77
-222            android:authorities="com.tuan1611pupu.vishort.firebaseinitprovider"
-222-->[com.google.firebase:firebase-common:20.3.2] /Users/nguyentuan/.gradle/caches/transforms-3/2a0fad2de11aae80af632de1808449b7/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:27:13-72
-223            android:directBootAware="true"
-223-->[com.google.firebase:firebase-common:20.3.2] /Users/nguyentuan/.gradle/caches/transforms-3/2a0fad2de11aae80af632de1808449b7/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:28:13-43
+206                <data
+206-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:37:17-39:50
+207                    android:host="firebase.auth"
+207-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:38:21-56
+208                    android:path="/"
+209                    android:scheme="recaptcha" />
+209-->[com.facebook.android:facebook-common:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\b8ae56014994ecc85140f02a495a55af\transformed\jetified-facebook-common-16.0.1\AndroidManifest.xml:39:21-47
+210            </intent-filter>
+211        </activity>
+212
+213        <service
+213-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:66:9-72:19
+214            android:name="com.google.firebase.components.ComponentDiscoveryService"
+214-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:67:13-84
+215            android:directBootAware="true"
+215-->[com.google.firebase:firebase-common:20.3.2] C:\Users\nguye\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:34:13-43
+216            android:exported="false" >
+216-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:68:13-37
+217            <meta-data
+217-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:69:13-71:85
+218                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+218-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:70:17-109
+219                android:value="com.google.firebase.components.ComponentRegistrar" />
+219-->[com.google.firebase:firebase-auth:22.0.0] C:\Users\nguye\.gradle\caches\transforms-3\1657266959447924da06e74d55559184\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:71:17-82
+220        </service>
+221
+222        <activity
+222-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\nguye\.gradle\caches\transforms-3\03620ac658df2a287bbba0e16dfa8ce7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+223            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+223-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\nguye\.gradle\caches\transforms-3\03620ac658df2a287bbba0e16dfa8ce7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
 224            android:exported="false"
-224-->[com.google.firebase:firebase-common:20.3.2] /Users/nguyentuan/.gradle/caches/transforms-3/2a0fad2de11aae80af632de1808449b7/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:29:13-37
-225            android:initOrder="100" />
-225-->[com.google.firebase:firebase-common:20.3.2] /Users/nguyentuan/.gradle/caches/transforms-3/2a0fad2de11aae80af632de1808449b7/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:30:13-36
-226        <!--
-227         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
-228         with the application context. This config is merged in with the host app's manifest,
-229         but there can only be one provider with the same authority activated at any given
-230         point; so if the end user has two or more different apps that use Facebook SDK, only the
-231         first one will be able to use the provider. To work around this problem, we use the
-232         following placeholder in the authority to identify each host application as if it was
-233         a completely different provider.
-234        -->
-235        <provider
-235-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:29:9-32:40
-236            android:name="com.facebook.internal.FacebookInitProvider"
-236-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:30:13-70
-237            android:authorities="com.tuan1611pupu.vishort.FacebookInitProvider"
-237-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:31:13-72
-238            android:exported="false" />
-238-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:32:13-37
-239
-240        <receiver
-240-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:34:9-40:20
-241            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
-241-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:35:13-86
-242            android:exported="false" >
-242-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:36:13-37
-243            <intent-filter>
-243-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:37:13-39:29
-244                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
-244-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:38:17-95
-244-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:38:25-92
-245            </intent-filter>
-246        </receiver>
+224-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\nguye\.gradle\caches\transforms-3\03620ac658df2a287bbba0e16dfa8ce7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+225            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+225-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\nguye\.gradle\caches\transforms-3\03620ac658df2a287bbba0e16dfa8ce7\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+226
+227        <provider
+227-->[com.google.firebase:firebase-common:20.3.2] C:\Users\nguye\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:25:9-30:39
+228            android:name="com.google.firebase.provider.FirebaseInitProvider"
+228-->[com.google.firebase:firebase-common:20.3.2] C:\Users\nguye\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:26:13-77
+229            android:authorities="com.tuan1611pupu.vishort.firebaseinitprovider"
+229-->[com.google.firebase:firebase-common:20.3.2] C:\Users\nguye\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:27:13-72
+230            android:directBootAware="true"
+230-->[com.google.firebase:firebase-common:20.3.2] C:\Users\nguye\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:28:13-43
+231            android:exported="false"
+231-->[com.google.firebase:firebase-common:20.3.2] C:\Users\nguye\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:29:13-37
+232            android:initOrder="100" />
+232-->[com.google.firebase:firebase-common:20.3.2] C:\Users\nguye\.gradle\caches\transforms-3\2a0fad2de11aae80af632de1808449b7\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:30:13-36
+233        <!--
+234         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+235         with the application context. This config is merged in with the host app's manifest,
+236         but there can only be one provider with the same authority activated at any given
+237         point; so if the end user has two or more different apps that use Facebook SDK, only the
+238         first one will be able to use the provider. To work around this problem, we use the
+239         following placeholder in the authority to identify each host application as if it was
+240         a completely different provider.
+241        -->
+242        <provider
+242-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:29:9-32:40
+243            android:name="com.facebook.internal.FacebookInitProvider"
+243-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:30:13-70
+244            android:authorities="com.tuan1611pupu.vishort.FacebookInitProvider"
+244-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:31:13-72
+245            android:exported="false" />
+245-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:32:13-37
+246
 247        <receiver
-247-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:41:9-47:20
-248            android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver"
-248-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:42:13-118
+247-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:34:9-40:20
+248            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+248-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:35:13-86
 249            android:exported="false" >
-249-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:43:13-37
+249-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:36:13-37
 250            <intent-filter>
-250-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:44:13-46:29
-251                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
-251-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:45:17-103
-251-->[com.facebook.android:facebook-core:16.0.1] /Users/nguyentuan/.gradle/caches/transforms-3/6dfef88a42c14638a5903ce4634c0297/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:45:25-100
+250-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:37:13-39:29
+251                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+251-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:38:17-95
+251-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:38:25-92
 252            </intent-filter>
 253        </receiver>
-254
-255        <meta-data
-255-->[com.google.android.gms:play-services-basement:18.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/370044798188c7dcf3fa69a1ea393657/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
-256            android:name="com.google.android.gms.version"
-256-->[com.google.android.gms:play-services-basement:18.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/370044798188c7dcf3fa69a1ea393657/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
-257            android:value="@integer/google_play_services_version" />
-257-->[com.google.android.gms:play-services-basement:18.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/370044798188c7dcf3fa69a1ea393657/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
-258
-259        <provider
-259-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
-260            android:name="androidx.startup.InitializationProvider"
-260-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
-261            android:authorities="com.tuan1611pupu.vishort.androidx-startup"
-261-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
-262            android:exported="false" >
-262-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
-263            <meta-data
-263-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
-264                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-264-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
-265                android:value="androidx.startup" />
-265-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/a641a86ced864a0068268496286719cf/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
-266            <meta-data
-266-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nguyentuan/.gradle/caches/transforms-3/b369bfbc0941e1ef0477007e5533ba66/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
-267                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-267-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nguyentuan/.gradle/caches/transforms-3/b369bfbc0941e1ef0477007e5533ba66/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
-268                android:value="androidx.startup" />
-268-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nguyentuan/.gradle/caches/transforms-3/b369bfbc0941e1ef0477007e5533ba66/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
-269        </provider>
-270    </application>
-271
-272</manifest>
+254        <receiver
+254-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:41:9-47:20
+255            android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver"
+255-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:42:13-118
+256            android:exported="false" >
+256-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:43:13-37
+257            <intent-filter>
+257-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:44:13-46:29
+258                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
+258-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:45:17-103
+258-->[com.facebook.android:facebook-core:16.0.1] C:\Users\nguye\.gradle\caches\transforms-3\6dfef88a42c14638a5903ce4634c0297\transformed\jetified-facebook-core-16.0.1\AndroidManifest.xml:45:25-100
+259            </intent-filter>
+260        </receiver>
+261
+262        <meta-data
+262-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\nguye\.gradle\caches\transforms-3\370044798188c7dcf3fa69a1ea393657\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+263            android:name="com.google.android.gms.version"
+263-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\nguye\.gradle\caches\transforms-3\370044798188c7dcf3fa69a1ea393657\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+264            android:value="@integer/google_play_services_version" />
+264-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\nguye\.gradle\caches\transforms-3\370044798188c7dcf3fa69a1ea393657\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+265
+266        <provider
+266-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nguye\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+267            android:name="androidx.startup.InitializationProvider"
+267-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nguye\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+268            android:authorities="com.tuan1611pupu.vishort.androidx-startup"
+268-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nguye\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+269            android:exported="false" >
+269-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nguye\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+270            <meta-data
+270-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nguye\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+271                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+271-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nguye\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+272                android:value="androidx.startup" />
+272-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nguye\.gradle\caches\transforms-3\a641a86ced864a0068268496286719cf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+273            <meta-data
+273-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\nguye\.gradle\caches\transforms-3\b369bfbc0941e1ef0477007e5533ba66\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+274                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+274-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\nguye\.gradle\caches\transforms-3\b369bfbc0941e1ef0477007e5533ba66\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+275                android:value="androidx.startup" />
+275-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\nguye\.gradle\caches\transforms-3\b369bfbc0941e1ef0477007e5533ba66\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+276        </provider>
+277    </application>
+278
+279</manifest>
