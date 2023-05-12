@@ -9,13 +9,17 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="3570b006-698e-436c-aff3-246164bb8763" name="Changes" comment="" />
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/nguyentuan/.android/avd/Pixel_2_API_28.avd]" />
+
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -30,6 +34,8 @@
       </list>
     </option>
   </component>
+
+
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -39,6 +45,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -52,6 +59,7 @@
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/src/main/res" />
@@ -138,12 +146,20 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3570b006-698e-436c-aff3-246164bb8763" name="Changes" comment="" />
+      <changelist id="664476eb-11a3-4a4c-b66e-cf427bb3db5c" name="Changes" comment="Tuấn&#10;&#10;Giao diện - login-main-creatPost" />
       <created>1683383797650</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683383797650</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tuấn&#10;&#10;Giao diện - login-main-creatPost">
+      <created>1683816425784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683816425784</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-</project>
+

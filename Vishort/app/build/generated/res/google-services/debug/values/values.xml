@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">592704013165-dhprpum21s9oqu3mp52cb5jlc6edg82a.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">592704013165</string>
+    <string name="google_api_key" translatable="false">AIzaSyDjIfALG17Z7B1voxBRqkscFv-NY6R7dqo</string>
+    <string name="google_app_id" translatable="false">1:592704013165:android:c1e62596f7d04d9aac5064</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjIfALG17Z7B1voxBRqkscFv-NY6R7dqo</string>
+    <string name="google_storage_bucket" translatable="false">vishort-ef364.appspot.com</string>
+    <string name="project_id" translatable="false">vishort-ef364</string>
+</resources>
