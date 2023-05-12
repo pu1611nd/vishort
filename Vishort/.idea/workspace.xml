@@ -9,13 +9,17 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="664476eb-11a3-4a4c-b66e-cf427bb3db5c" name="Changes" comment="Tuấn&#10;&#10;Giao diện - login-main-creatPost" />
+
+    <list default="true" id="3570b006-698e-436c-aff3-246164bb8763" name="Changes" comment="" />
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\GMT\.android\avd\Pixel_2_API_30.avd]" />
+
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/nguyentuan/.android/avd/Pixel_2_API_28.avd]" />
+
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -30,40 +34,32 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="pu1611nd &lt;tuan1611gaming@gmail.com&gt;" />
-      </list>
-    </option>
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$/.." value="Dev" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
+
+
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PQKJyzD8nlQlE3EQMZuP9Ppxg2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/TaiLieu/Android/vishort/Vishort&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
-  }
-}</component>
+
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="android-custom-view/Users/nguyentuan/.gradle/caches/modules-2/files-2.1/com.github.MasayukiSuda/GPUVideo-android/v0.1.1/951c8d7271b2f5dfc2522dfcba2da76312065d58/GPUVideo-android-v0.1.1-sources.jar!/com/daasuu/gpuv/player/GPUPlayerView.java_SELECTED" value="GPUPlayerView" />
+    <property name="android-custom-view/Users/nguyentuan/.gradle/caches/modules-2/files-2.1/com.github.iammert/ReadableBottomBar/0.2/83762b43da1f00261c64a7933951d7a88cd264f2/ReadableBottomBar-0.2-sources.jar!/com/iammert/library/readablebottombar/ReadableBottomBar.kt_SELECTED" value="ReadableBottomBar" />
+    <property name="android-custom-view/Users/nguyentuan/AndroidStudioProjects/Vishort/app/src/main/java/com/tuan1611pupu/vishort/swipelay/SwipeLayout.java_SELECTED" value="SwipeLayout" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/src/main/res" />
@@ -136,12 +132,15 @@
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+        <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -163,19 +162,4 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tuấn&#10;&#10;Giao diện - login-main-creatPost" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tuấn&#10;&#10;Giao diện - login-main-creatPost" />
-  </component>
-</project>
+

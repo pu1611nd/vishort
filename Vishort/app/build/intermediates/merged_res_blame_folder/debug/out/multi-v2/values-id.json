@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.tuan1611pupu.vishort.app-mergeDebugResources-48:/values-id/values-id.xml",
+            "outputFile": "com.tuan1611pupu.vishort.app-mergeDebugResources-52:/values-id/values-id.xml",
             "map": [
                 {
                     "source": "/Users/nguyentuan/.gradle/caches/transforms-3/b8ae56014994ecc85140f02a495a55af/transformed/jetified-facebook-common-16.0.1/res/values-id/values-id.xml",

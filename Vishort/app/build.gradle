@@ -1,0 +1,88 @@
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+}
+
+android {
+    namespace 'com.tuan1611pupu.vishort'
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "com.tuan1611pupu.vishort"
+        minSdk 23
+        targetSdk 33
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    buildFeatures{
+        dataBinding true
+        viewBinding true
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.9.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+    //////////////customs
+    implementation 'com.intuit.sdp:sdp-android:1.1.0'
+    implementation 'com.intuit.ssp:ssp-android:1.1.0'
+
+    implementation 'com.github.iammert:ReadableBottomBar:0.2'
+    //exoplayer
+    implementation 'com.google.android.exoplayer:exoplayer:2.18.6'
+
+    //likeButton
+    implementation 'com.github.jd-alexander:LikeButton:0.2.3'
+
+    //camaraview
+    implementation 'com.otaliastudios:autocomplete:1.1.0'
+    implementation 'com.otaliastudios:cameraview:2.6.4'
+    implementation 'com.otaliastudios.opengl:egloo:0.5.3'
+    implementation 'com.otaliastudios:transcoder:0.9.1'
+    //turboimage
+    implementation 'com.munon:turboimageview:1.2.0'
+    //segmented progressbar
+    implementation 'com.github.Captaincoder1111:Segmented-Progress-Bar:1.0'
+    implementation 'info.hoang8f:android-segmented:1.0.6'
+    //filter
+    implementation 'com.github.MasayukiSuda:GPUVideo-android:v0.1.1'
+    // if apply video filter on ExoPlayer video
+    implementation 'com.google.android.exoplayer:exoplayer-core:2.18.6'
+    //glide
+    implementation 'com.github.bumptech.glide:glide:4.13.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.13.0'
+    implementation 'jp.wasabeef:glide-transformations:4.0.0'
+
+
+    //animation
+    implementation 'com.github.mohammadatif:Animatoo:master'
+
+    /////// account
+    implementation 'com.facebook.android:facebook-android-sdk:16.0.1'
+    implementation 'com.github.TutorialsAndroid:GButton:v1.0.19'
+    implementation 'com.google.android.gms:play-services-auth:20.5.0'
+    implementation 'com.google.firebase:firebase-auth:22.0.0'
+
+}

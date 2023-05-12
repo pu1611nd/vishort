@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.tuan1611pupu.vishort.app-mergeDebugResources-48:/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "outputFile": "com.tuan1611pupu.vishort.app-mergeDebugResources-52:/values-sw720dp-v13/values-sw720dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/nguyentuan/.gradle/caches/transforms-3/0b2e3f67fd41640f9c49b2917737e9ef/transformed/jetified-ssp-android-1.1.0/res/values-sw720dp-v13/values-sw720dp-v13.xml",

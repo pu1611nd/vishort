@@ -1,614 +1,614 @@
 [
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_girl.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/girl.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_greadent_round.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_greadent_round.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_bg_record_button.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/bg_record_button.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-anydpi-v24_ic_heart_gradient.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-anydpi-v24/ic_heart_gradient.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_white_transparwnt_circle.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/white_transparwnt_circle.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_gift.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/gift.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xhdpi_image_plane.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xhdpi/image_plane.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_slide_in_left.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/slide_in_left.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/font_montserratblack.ttf.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/font/montserratblack.ttf"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_trash.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_trash.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_baseline_add_24.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_baseline_add_24.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_item_search_user.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_search_user.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xxxhdpi_share_svgrepo_com.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xxxhdpi/share_svgrepo_com.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_item_reels.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/item_reels.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_round_pink_purple.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_round_pink_purple.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_unliked.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_unliked.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-hdpi_icon_black_disk.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-hdpi/icon_black_disk.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_baseline_notifications_24.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_baseline_notifications_24.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_seach_user.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_seach_user.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-mdpi_icon_black_disk.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-mdpi/icon_black_disk.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_gradient_round.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_gradient_round.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-anydpi-v24_icon_close.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-anydpi-v24/icon_close.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-mdpi_icon_close.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-mdpi/icon_close.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_chat_line_round_svgrepo_com.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/chat_line_round_svgrepo_com.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_round_check_24.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_round_check_24.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_item_search_user.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/item_search_user.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_notification.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_notification.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_slide_out_left.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/slide_out_left.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_baseline_info_24.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_baseline_info_24.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_speed.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_speed.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xxxhdpi_image_plane.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xxxhdpi/image_plane.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_post1.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/post1.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_fragment_user_profile.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/fragment_user_profile.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-hdpi_icon_close.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-hdpi/icon_close.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_icon_edit.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/icon_edit.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_search.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_search.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_baseline_add_box_24.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_baseline_add_box_24.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxhdpi_share_svgrepo_com.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxhdpi/share_svgrepo_com.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/anim_bounce.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/anim/bounce.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-hdpi_image_plane.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-hdpi/image_plane.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-hdpi_ic_heart_gradient.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-hdpi/ic_heart_gradient.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_shape_border.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/shape_border.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_round_keyboard_arrow_right_24.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_round_keyboard_arrow_right_24.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/font_montserratbold.ttf.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/font/montserratbold.ttf"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratmedium.ttf.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratmedium.ttf"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/anim_slide_out_left.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/anim/slide_out_left.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxxhdpi_image_plane.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxxhdpi/image_plane.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/font_montserratsemibold.ttf.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/font/montserratsemibold.ttf"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-anydpi-v24_icon_black_disk.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-anydpi-v24/icon_black_disk.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-anydpi-v24_image_plane.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-anydpi-v24/image_plane.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratsemibold.ttf.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratsemibold.ttf"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/anim_slide_in_left.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/anim/slide_in_left.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_lightblue.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_lightblue.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_bg_greadent_round_10dp.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/bg_greadent_round_10dp.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_bottom_sheet.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_bottom_sheet.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-ldpi_share_svgrepo_com.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-ldpi/share_svgrepo_com.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_plane.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_plane.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/font_montserratlight.ttf.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/font/montserratlight.ttf"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_timer.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_timer.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xxxhdpi_icon_black_disk.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xxxhdpi/icon_black_disk.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_white_strok.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/white_strok.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/xml_backup_rules.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/xml/backup_rules.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_flip.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/flip.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xhdpi_share_svgrepo_com.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xhdpi/share_svgrepo_com.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_settings_24.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_settings_24.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_activity_log_in.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/activity_log_in.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-mdpi_share_svgrepo_com.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-mdpi/share_svgrepo_com.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_bg_bottom_sheet_corner.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/bg_bottom_sheet_corner.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_notifications_24.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_notifications_24.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_selection_done.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/selection_done.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_selection_done.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/selection_done.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_light_blue_circle.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/light_blue_circle.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_background_button.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/background_button.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_bg_greadent_round.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/bg_greadent_round.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_layout_no_internet.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/layout_no_internet.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-ldpi_image_plane.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-ldpi/image_plane.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_girl.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/girl.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_shape_online.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/shape_online.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_item_post_video.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_post_video.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_bg_bottom_sheet.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/bg_bottom_sheet.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxhdpi_image_plane.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxhdpi/image_plane.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_splash_logo.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/splash_logo.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_upload_video.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_upload_video.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_gift.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/gift.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxxhdpi_share_svgrepo_com.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxxhdpi/share_svgrepo_com.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_item_player_controler.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/item_player_controler.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_user_profile.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_user_profile.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_item_video_effect.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/item_video_effect.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_zoom.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/zoom.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_stickers.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_stickers.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-mdpi_icon_black_disk.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-mdpi/icon_black_disk.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_shape_lightblue.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/shape_lightblue.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_notification_main.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_notification_main.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_timer.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_timer.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_slow_rotate.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/slow_rotate.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_diamond.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/diamond.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxxhdpi_ic_heart_gradient.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxxhdpi/ic_heart_gradient.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_arrow_left_24.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_arrow_left_24.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xxhdpi_image_plane.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xxhdpi/image_plane.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/xml_backup_rules.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/xml/backup_rules.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_background_input.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/background_input.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/font_montserratmedium.ttf.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/font/montserratmedium.ttf"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratlight.ttf.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratlight.ttf"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_shape_round_pink_purple.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/shape_round_pink_purple.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratbold.ttf.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratbold.ttf"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_icon_music.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/icon_music.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_background_button_log.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/background_button_log.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xhdpi_ic_heart_gradient.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xhdpi/ic_heart_gradient.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_activity_register.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/activity_register.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_chat_line_round_svgrepo_com.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/chat_line_round_svgrepo_com.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_white_strok.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/white_strok.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_diamond.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/diamond.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_slide_in_right.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/slide_in_right.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_btn_record_selected.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_btn_record_selected.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_black_transpernt_squre.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/black_transpernt_squre.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xhdpi_share_svgrepo_com.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xhdpi/share_svgrepo_com.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_main.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_main.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-50:/layout_activity_filter.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-52:/layout/activity_filter.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_background_button_log.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/background_button_log.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_activity_recorder.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/activity_recorder.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_register.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_register.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_icon_trash.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/icon_trash.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_flash.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_flash.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_bg_btn_record_normal.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/bg_btn_record_normal.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_login_with_phone.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_login_with_phone.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_item_chat_user_list.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/item_chat_user_list.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_preview.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_preview.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_layout_no_internet.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/layout_no_internet.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-mdpi_image_plane.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-mdpi/image_plane.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_round_check_24.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_round_check_24.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_save.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_save.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_flip.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/flip.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_chat_bg.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_chat_bg.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_baseline_arrow_left_24.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_baseline_arrow_left_24.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-ldpi_ic_heart_gradient.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-ldpi/ic_heart_gradient.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_activity_filter.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/activity_filter.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_home.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_home.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xxxhdpi_ic_heart_gradient.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xxxhdpi/ic_heart_gradient.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-hdpi_image_plane.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-hdpi/image_plane.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_baseline_home_24.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_baseline_home_24.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratregular.ttf.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratregular.ttf"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_activity_preview.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/activity_preview.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_recorder.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_recorder.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xxhdpi_ic_heart_gradient.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xxhdpi/ic_heart_gradient.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_bounce.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/bounce.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratblack.ttf.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratblack.ttf"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_shape_search.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/shape_search.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_add_24.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_shape_offline.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/shape_offline.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_record_button.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_record_button.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_background_button.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/background_button.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-mdpi_ic_heart_gradient.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-mdpi/ic_heart_gradient.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_fragment_home.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/fragment_home.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_edit.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_edit.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_bg_round_pink.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/bg_round_pink.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-hdpi_share_svgrepo_com.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-hdpi/share_svgrepo_com.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_purple_pink_rect.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/purple_pink_rect.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_music.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_music.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_flash.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_flash.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-ldpi_image_plane.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-ldpi/image_plane.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xhdpi_ic_heart_gradient.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xhdpi/ic_heart_gradient.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_delete.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_delete.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_background_input.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/background_input.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_partial_timer_sheet.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/partial_timer_sheet.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_shop.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/shop.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_filter.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_filter.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/anim_slide_in_right.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/anim/slide_in_right.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_light_blue_circle.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/light_blue_circle.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xhdpi_icon_close.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xhdpi/icon_close.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratthin.ttf.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratthin.ttf"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/font_montserratregular.ttf.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/font/montserratregular.ttf"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_home_24.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/anim_zoom.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/anim/zoom.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxhdpi_icon_black_disk.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxhdpi/icon_black_disk.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_activity_login_with_phone.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/activity_login_with_phone.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxxhdpi_icon_black_disk.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxxhdpi/icon_black_disk.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-mdpi_icon_close.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-mdpi/icon_close.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_item_reels.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_reels.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-mdpi_image_plane.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-mdpi/image_plane.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_account_circle_24.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-ldpi_icon_close.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-ldpi/icon_close.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_twitter.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_twitter.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/menu_menu_item.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/menu/menu_item.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_baseline_arrow_back_24.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_baseline_arrow_back_24.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_online.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_online.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_icon_user.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/icon_user.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/menu_menu_item.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/menu/menu_item.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_background10.jpg.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/background10.jpg"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xhdpi_icon_close.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xhdpi/icon_close.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-mdpi_share_svgrepo_com.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-mdpi/share_svgrepo_com.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/xml_tabs.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/xml/tabs.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xxxhdpi_icon_close.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xxxhdpi/icon_close.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxhdpi_ic_heart_gradient.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxhdpi/ic_heart_gradient.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-hdpi_icon_black_disk.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-hdpi/icon_black_disk.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_item_chat_user_list.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_chat_user_list.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_shape_pink_radius5.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/shape_pink_radius5.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxxhdpi_icon_close.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxxhdpi/icon_close.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/anim_slide_out_right.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/anim/slide_out_right.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_purple_pink_rect.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/purple_pink_rect.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_partial_timer_sheet.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/partial_timer_sheet.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_search_24.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_search_24.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_baseline_search_24.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_baseline_search_24.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-anydpi-v24_image_plane.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-anydpi-v24/image_plane.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-hdpi_ic_heart_gradient.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-hdpi/ic_heart_gradient.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-anydpi-v24_icon_close.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-anydpi-v24/icon_close.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_speed.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_speed.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-ldpi_share_svgrepo_com.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-ldpi/share_svgrepo_com.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/anim_slow_rotate.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/anim/slow_rotate.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/xml_data_extraction_rules.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/xml_data_extraction_rules.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/xml/data_extraction_rules.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_greadent_round_10dp.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_greadent_round_10dp.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xxhdpi_share_svgrepo_com.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xxhdpi/share_svgrepo_com.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_filter.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_filter.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_icon_twitter.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/icon_twitter.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_stickers.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_stickers.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/font_montserratthin.ttf.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/font/montserratthin.ttf"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_white_transparwnt_circle.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/white_transparwnt_circle.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-anydpi-v24_icon_black_disk.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-anydpi-v24/icon_black_disk.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-anydpi-v24_share_svgrepo_com.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-anydpi-v24/share_svgrepo_com.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_shape_chat_bg.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/shape_chat_bg.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_add_box_24.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_add_box_24.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-hdpi_share_svgrepo_com.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-hdpi/share_svgrepo_com.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_background10.jpg.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/background10.jpg"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_baseline_account_circle_24.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_baseline_account_circle_24.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_bottom_sheet_corner.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_bottom_sheet_corner.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_item_player_controler.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_player_controler.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_round_keyboard_arrow_right_24.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_round_keyboard_arrow_right_24.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_item_video_effect.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_video_effect.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_post1.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/post1.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_fragment_notification.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/fragment_notification.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xhdpi_image_plane.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xhdpi/image_plane.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_delete.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_delete.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_list_user_chat.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_list_user_chat.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-anydpi-v24_ic_heart_gradient.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-anydpi-v24/ic_heart_gradient.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xhdpi_icon_black_disk.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xhdpi/icon_black_disk.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_fragment_seach_user.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/fragment_seach_user.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_arrow_back_24.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_bg_gradient_round.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/bg_gradient_round.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/xml_tabs.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/xml/tabs.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_btn_record_normal.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_btn_record_normal.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_bg_btn_record_selected.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/bg_btn_record_selected.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratextrabold.ttf.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratextrabold.ttf"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-anydpi-v24_share_svgrepo_com.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-anydpi-v24/share_svgrepo_com.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-ldpi_icon_black_disk.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-ldpi/icon_black_disk.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-hdpi_icon_close.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-hdpi/icon_close.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_pink_radius5.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_pink_radius5.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_fragment_notification_main.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/fragment_notification_main.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_round_pink.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_round_pink.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-ldpi_icon_black_disk.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-ldpi/icon_black_disk.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_baseline_settings_24.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_baseline_settings_24.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_info_24.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_info_24.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/font_montserratextrabold.ttf.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/font/montserratextrabold.ttf"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_slide_out_right.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/slide_out_right.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_filter.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_filter.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_offline.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_offline.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-ldpi_ic_heart_gradient.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-ldpi/ic_heart_gradient.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_border.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_border.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xxhdpi_icon_black_disk.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xxhdpi/icon_black_disk.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_log_in.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_log_in.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_icon_upload_img.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/icon_upload_img.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-ldpi_icon_close.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-ldpi/icon_close.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/ic_launcher_background.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shop.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shop.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xhdpi_icon_black_disk.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xhdpi/icon_black_disk.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_black_transpernt_squre.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/black_transpernt_squre.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-xxhdpi_icon_close.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-xxhdpi/icon_close.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxhdpi_icon_close.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxhdpi/icon_close.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_fragment_list_user_chat.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/fragment_list_user_chat.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_icon_save.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/icon_save.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_splash_logo.png.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/splash_logo.png"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable_icon_plane.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/drawable/icon_plane.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_unliked.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_unliked.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_upload_img.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_upload_img.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_activity_main.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/activity_main.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/drawable-mdpi_ic_heart_gradient.png.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-pngs-45:/drawable-mdpi/ic_heart_gradient.png"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_user.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_user.xml"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_fragment_profile.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/fragment_profile.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-merged_res-50:/layout_item_post_video.xml.flat",
-        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.vishort.app-main-52:/layout/item_post_video.xml"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_profile.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_profile.xml"
     }
 ]
