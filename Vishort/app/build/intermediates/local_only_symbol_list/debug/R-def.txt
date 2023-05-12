@@ -170,6 +170,7 @@ id giftLay
 id ic_setting
 id imageBack
 id imageInfo
+id imageview
 id imgSong
 id inputCode1
 id inputCode2
@@ -183,6 +184,8 @@ id iv_video_effect
 id last_msg
 id like
 id like_count
+id lytLocation
+id lytPrivacy
 id lytSound
 id lytTop
 id maximum
@@ -236,6 +239,8 @@ id speeds
 id sticker
 id stickerTurbo
 id sticker_parent
+id switchComments
+id switchShop
 id tablayout
 id textDieuKhoanDichVu
 id textName
@@ -249,6 +254,8 @@ id timer_sheet
 id toolbar
 id top
 id topbar
+id tvLocation
+id tvPrivacy
 id tv_effect_name
 id tv_internet_status
 id upload
@@ -266,6 +273,7 @@ layout activity_main
 layout activity_preview
 layout activity_recorder
 layout activity_register
+layout activity_upload_video
 layout fragment_home
 layout fragment_list_user_chat
 layout fragment_notification
@@ -286,9 +294,19 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 string add
 string app_name
+string default_web_client_id
+string facebook_app_id
+string facebook_client_token
+string fb_login_protocol_scheme
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
 string home
 string notification
 string profile
+string project_id
 string search
 style TextOnShadow
 style Theme.Vishort
