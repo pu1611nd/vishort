@@ -1,36 +1,21 @@
 package com.tuan1611pupu.vishort.Model;
 
 public class User {
-    String name;
     String bio;
     String username;
     String email;
     String image;
-    String country;
-    int level;
-    int followres;
-    int fans;
-    int videos;
-    int age;
-    int posts;
-    int id;
-    private String gender;
+    String provider;
+    String id;
 
-    public User(String name, String bio, String username, String email, String image, String country, int level, int followres, int fans, int videos, int age, int posts, int id, String gender) {
-        this.name = name;
+    public User(String bio, String username, String email, String image, String provider,  String id) {
+
         this.bio = bio;
         this.username = username;
         this.email = email;
         this.image = image;
-        this.country = country;
-        this.level = level;
-        this.followres = followres;
-        this.fans = fans;
-        this.videos = videos;
-        this.age = age;
-        this.posts = posts;
+        this.provider = provider;
         this.id = id;
-        this.gender = gender;
     }
 
     public User() {
@@ -38,21 +23,6 @@ public class User {
 
 
 
-    public String getGender() {
-        return gender;
-    }
-
-    public void setGender(String gender) {
-        this.gender = gender;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
 
     public String getBio() {
         return bio;
@@ -86,68 +56,20 @@ public class User {
         this.image = image;
     }
 
-    public String getCountry() {
-        return country;
+    public String getProvider() {
+        return provider;
     }
 
-    public void setCountry(String country) {
-        this.country = country;
-    }
-
-    public int getLevel() {
-        return level;
-    }
-
-    public void setLevel(int level) {
-        this.level = level;
-    }
-
-    public int getFollowres() {
-        return followres;
-    }
-
-    public void setFollowres(int followres) {
-        this.followres = followres;
-    }
-
-    public int getFans() {
-        return fans;
-    }
-
-    public void setFans(int fans) {
-        this.fans = fans;
-    }
-
-    public int getVideos() {
-        return videos;
-    }
-
-    public void setVideos(int videos) {
-        this.videos = videos;
-    }
-
-    public int getAge() {
-        return age;
-    }
-
-    public void setAge(int age) {
-        this.age = age;
+    public void setProvider(String provider) {
+        this.provider = provider;
     }
 
 
-    public int getPosts() {
-        return posts;
-    }
-
-    public void setPosts(int posts) {
-        this.posts = posts;
-    }
-
-    public int getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(String id) {
         this.id = id;
     }
 }

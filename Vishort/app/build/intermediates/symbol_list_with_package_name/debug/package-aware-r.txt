@@ -4287,6 +4287,7 @@ drawable radio_unchecked
 drawable selection_done
 drawable shape_border
 drawable shape_chat_bg
+drawable shape_gray_border
 drawable shape_lightblue
 drawable shape_offline
 drawable shape_online
@@ -4721,6 +4722,7 @@ id line3
 id linear
 id listMode
 id list_item
+id logout
 id lytLocation
 id lytPrivacy
 id lytSound
@@ -5045,6 +5047,7 @@ id transition_transform
 id triangle
 id tvLocation
 id tvPrivacy
+id tvVersion
 id tv_effect_name
 id tv_internet_status
 id unchecked
@@ -5207,6 +5210,7 @@ layout activity_main
 layout activity_preview
 layout activity_recorder
 layout activity_register
+layout activity_setting
 layout activity_upload_video
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row

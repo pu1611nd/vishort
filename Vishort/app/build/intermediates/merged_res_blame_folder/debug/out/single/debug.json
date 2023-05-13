@@ -112,6 +112,10 @@
         "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_lightblue.xml"
     },
     {
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_gray_border.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_gray_border.xml"
+    },
+    {
         "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_bottom_sheet.xml.flat",
         "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_bottom_sheet.xml"
     },
@@ -350,6 +354,10 @@
     {
         "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_partial_timer_sheet.xml.flat",
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/partial_timer_sheet.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_setting.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_setting.xml"
     },
     {
         "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_filter.xml.flat",
