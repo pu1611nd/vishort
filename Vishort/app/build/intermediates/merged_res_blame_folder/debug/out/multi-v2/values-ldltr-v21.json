@@ -4,7 +4,7 @@
             "outputFile": "com.tuan1611pupu.vishort.app-mergeDebugResources-52:/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\nguye\\.gradle\\caches\\transforms-3\\e2be6c5495a727b53141a8928c63c238\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "/Users/nguyentuan/.gradle/caches/transforms-3/e2be6c5495a727b53141a8928c63c238/transformed/appcompat-1.6.1/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

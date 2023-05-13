@@ -110,6 +110,7 @@ drawable purple_pink_rect
 drawable selection_done
 drawable shape_border
 drawable shape_chat_bg
+drawable shape_gray_border
 drawable shape_lightblue
 drawable shape_offline
 drawable shape_online
@@ -184,6 +185,7 @@ id iv_video_effect
 id last_msg
 id like
 id like_count
+id logout
 id lytLocation
 id lytPrivacy
 id lytSound
@@ -256,6 +258,7 @@ id top
 id topbar
 id tvLocation
 id tvPrivacy
+id tvVersion
 id tv_effect_name
 id tv_internet_status
 id upload
@@ -273,6 +276,7 @@ layout activity_main
 layout activity_preview
 layout activity_recorder
 layout activity_register
+layout activity_setting
 layout activity_upload_video
 layout fragment_home
 layout fragment_list_user_chat

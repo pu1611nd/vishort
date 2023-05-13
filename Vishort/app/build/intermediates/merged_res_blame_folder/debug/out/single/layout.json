@@ -8,6 +8,38 @@
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_post_video.xml"
     },
     {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_list_user_chat.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_list_user_chat.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/layout_no_internet.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/layout_no_internet.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_user_profile.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_user_profile.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_login_with_phone.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_login_with_phone.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_notification_main.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_notification_main.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/partial_timer_sheet.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/partial_timer_sheet.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/item_chat_user_list.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_chat_user_list.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_register.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_register.xml"
+    },
+    {
         "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/item_video_effect.xml",
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_video_effect.xml"
     },
@@ -36,18 +68,6 @@
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_log_in.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_list_user_chat.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_list_user_chat.xml"
-    },
-    {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/layout_no_internet.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/layout_no_internet.xml"
-    },
-    {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_user_profile.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_user_profile.xml"
-    },
-    {
         "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/item_search_user.xml",
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_search_user.xml"
     },
@@ -60,18 +80,6 @@
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_seach_user.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_login_with_phone.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_login_with_phone.xml"
-    },
-    {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_notification_main.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_notification_main.xml"
-    },
-    {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/partial_timer_sheet.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/partial_timer_sheet.xml"
-    },
-    {
         "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_preview.xml",
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_preview.xml"
     },
@@ -80,15 +88,11 @@
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_upload_video.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/item_chat_user_list.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_chat_user_list.xml"
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_setting.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_setting.xml"
     },
     {
         "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_profile.xml",
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_profile.xml"
-    },
-    {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_register.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_register.xml"
     }
 ]

@@ -96,7 +96,7 @@ public class ReelsAdapter extends RecyclerView.Adapter<ReelsAdapter.ReelsViewHol
         public void setData(int position) {
             Reels reel = reels.get(position);
             Glide.with(binding.getRoot()).load(reel.getUser().getImage()).into(binding.thumbnail);
-            binding.username.setText(reel.getUser().getName());
+            binding.username.setText(reel.getUser().getUsername());
             binding.email.setText(reel.getEmail());
             binding.bio.setText(reel.getCaption());
             binding.songName.setText("Sound Name..");

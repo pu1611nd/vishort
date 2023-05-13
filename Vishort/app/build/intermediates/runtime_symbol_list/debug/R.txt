@@ -4286,6 +4286,7 @@ int drawable radio_unchecked 0x7f0801a7
 int drawable selection_done 0x7f0801a8
 int drawable shape_border 0x7f0801a9
 int drawable shape_chat_bg 0x7f0801aa
+int drawable shape_gray_border 0x7f0801bd
 int drawable shape_lightblue 0x7f0801ab
 int drawable shape_offline 0x7f0801ac
 int drawable shape_online 0x7f0801ad
@@ -4720,6 +4721,7 @@ int id line3 0x7f0a0193
 int id linear 0x7f0a0194
 int id listMode 0x7f0a0195
 int id list_item 0x7f0a0196
+int id logout 0x7f0a0302
 int id lytLocation 0x7f0a0197
 int id lytPrivacy 0x7f0a0198
 int id lytSound 0x7f0a0199
@@ -5044,6 +5046,7 @@ int id transition_transform 0x7f0a02d7
 int id triangle 0x7f0a02d8
 int id tvLocation 0x7f0a02d9
 int id tvPrivacy 0x7f0a02da
+int id tvVersion 0x7f0a0303
 int id tv_effect_name 0x7f0a02db
 int id tv_internet_status 0x7f0a02dc
 int id unchecked 0x7f0a02dd
@@ -5206,6 +5209,7 @@ int layout activity_main 0x7f0d001f
 int layout activity_preview 0x7f0d0020
 int layout activity_recorder 0x7f0d0021
 int layout activity_register 0x7f0d0022
+int layout activity_setting 0x7f0d00ab
 int layout activity_upload_video 0x7f0d0023
 int layout browser_actions_context_menu_page 0x7f0d0024
 int layout browser_actions_context_menu_row 0x7f0d0025
