@@ -1,5 +1,61 @@
 [
     {
+<<<<<<< HEAD
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/layout_no_internet.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/layout_no_internet.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/item_post_video.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/item_post_video.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/item_chat_user_list.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/item_chat_user_list.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/fragment_notification_main.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/fragment_notification_main.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/fragment_seach_user.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/fragment_seach_user.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/fragment_home.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/activity_register.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/item_songs.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/item_songs.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/item_video_effect.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/item_video_effect.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/activity_upload_video.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/activity_upload_video.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/fragment_notification.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/fragment_notification.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/fragment_profile.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/activity_preview.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/activity_preview.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/fragment_user_profile.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/fragment_user_profile.xml"
+=======
         "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_home.xml",
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_home.xml"
     },
@@ -54,12 +110,57 @@
     {
         "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_main.xml",
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_main.xml"
+>>>>>>> parent of 2635d34 (tuấn)
     },
     {
         "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_recorder.xml",
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_recorder.xml"
     },
     {
+<<<<<<< HEAD
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/item_player_controler.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/item_player_controler.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/activity_setting.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/fragment_list_user_chat.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/fragment_list_user_chat.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/partial_song_preview_sheet.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/partial_song_preview_sheet.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/activity_song.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/activity_song.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/activity_main.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/item_reels.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/item_reels.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/activity_login_with_phone.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/activity_login_with_phone.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/activity_log_in.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/activity_log_in.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/partial_timer_sheet.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/partial_timer_sheet.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-60:/layout/item_search_user.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-63:/layout/item_search_user.xml"
+=======
         "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/item_reels.xml",
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_reels.xml"
     },
@@ -94,5 +195,6 @@
     {
         "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_profile.xml",
         "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_profile.xml"
+>>>>>>> parent of 2635d34 (tuấn)
     }
 ]
