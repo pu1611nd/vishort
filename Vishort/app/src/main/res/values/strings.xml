@@ -9,5 +9,11 @@
     <string name="facebook_app_id">739348734215157</string>
     <string name="fb_login_protocol_scheme">fb739348734215157</string>
     <string name="facebook_client_token">56789</string>
+    <string name="user_bio">I’m selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle.</string>
+    <string name="follower">Followers</string>
+    <string name="followings">Đang theo dõi</string>
+    <string name="follow">Theo dõi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

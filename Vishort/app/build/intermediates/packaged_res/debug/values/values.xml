@@ -51,16 +51,21 @@
     <string name="facebook_app_id">739348734215157</string>
     <string name="facebook_client_token">56789</string>
     <string name="fb_login_protocol_scheme">fb739348734215157</string>
+    <string name="follow">Theo dõi</string>
+    <string name="follower">Followers</string>
+    <string name="followings">Đang theo dõi</string>
     <string name="gcm_defaultSenderId" translatable="false">592704013165</string>
     <string name="google_api_key" translatable="false">AIzaSyDjIfALG17Z7B1voxBRqkscFv-NY6R7dqo</string>
     <string name="google_app_id" translatable="false">1:592704013165:android:c1e62596f7d04d9aac5064</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjIfALG17Z7B1voxBRqkscFv-NY6R7dqo</string>
     <string name="google_storage_bucket" translatable="false">vishort-ef364.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="home">Home</string>
     <string name="notification">Notification</string>
     <string name="profile">Profile</string>
     <string name="project_id" translatable="false">vishort-ef364</string>
     <string name="search">Search</string>
+    <string name="user_bio">I’m selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle.</string>
     <style name="TextOnShadow" parent="">
         <item name="android:shadowColor">@android:color/black</item>
         <item name="android:shadowDx">1</item>

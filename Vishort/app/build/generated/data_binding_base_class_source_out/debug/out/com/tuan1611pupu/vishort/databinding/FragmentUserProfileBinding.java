@@ -5,19 +5,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.appcompat.widget.Toolbar;
-import androidx.core.widget.NestedScrollView;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
-import com.google.android.material.appbar.AppBarLayout;
 import com.tuan1611pupu.vishort.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -25,22 +21,10 @@ import java.lang.String;
 
 public final class FragmentUserProfileBinding implements ViewBinding {
   @NonNull
-  private final FrameLayout rootView;
-
-  @NonNull
-  public final AppBarLayout appBar;
-
-  @NonNull
-  public final ImageView back;
-
-  @NonNull
-  public final LinearLayout bottomSheet;
+  private final LinearLayout rootView;
 
   @NonNull
   public final Button btnFollow;
-
-  @NonNull
-  public final ImageView coverImag;
 
   @NonNull
   public final LinearLayout followerLay;
@@ -52,16 +36,10 @@ public final class FragmentUserProfileBinding implements ViewBinding {
   public final RelativeLayout message;
 
   @NonNull
-  public final ImageView profilePic;
+  public final ImageView profileImage;
 
   @NonNull
   public final RecyclerView rvPostVideo;
-
-  @NonNull
-  public final NestedScrollView scrollView;
-
-  @NonNull
-  public final Toolbar toolbar;
 
   @NonNull
   public final RelativeLayout topbar;
@@ -69,33 +47,25 @@ public final class FragmentUserProfileBinding implements ViewBinding {
   @NonNull
   public final TextView username;
 
-  private FragmentUserProfileBinding(@NonNull FrameLayout rootView, @NonNull AppBarLayout appBar,
-      @NonNull ImageView back, @NonNull LinearLayout bottomSheet, @NonNull Button btnFollow,
-      @NonNull ImageView coverImag, @NonNull LinearLayout followerLay,
-      @NonNull LinearLayout followingLay, @NonNull RelativeLayout message,
-      @NonNull ImageView profilePic, @NonNull RecyclerView rvPostVideo,
-      @NonNull NestedScrollView scrollView, @NonNull Toolbar toolbar,
-      @NonNull RelativeLayout topbar, @NonNull TextView username) {
+  private FragmentUserProfileBinding(@NonNull LinearLayout rootView, @NonNull Button btnFollow,
+      @NonNull LinearLayout followerLay, @NonNull LinearLayout followingLay,
+      @NonNull RelativeLayout message, @NonNull ImageView profileImage,
+      @NonNull RecyclerView rvPostVideo, @NonNull RelativeLayout topbar,
+      @NonNull TextView username) {
     this.rootView = rootView;
-    this.appBar = appBar;
-    this.back = back;
-    this.bottomSheet = bottomSheet;
     this.btnFollow = btnFollow;
-    this.coverImag = coverImag;
     this.followerLay = followerLay;
     this.followingLay = followingLay;
     this.message = message;
-    this.profilePic = profilePic;
+    this.profileImage = profileImage;
     this.rvPostVideo = rvPostVideo;
-    this.scrollView = scrollView;
-    this.toolbar = toolbar;
     this.topbar = topbar;
     this.username = username;
   }
 
   @Override
   @NonNull
-  public FrameLayout getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -120,33 +90,9 @@ public final class FragmentUserProfileBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.appBar;
-      AppBarLayout appBar = ViewBindings.findChildViewById(rootView, id);
-      if (appBar == null) {
-        break missingId;
-      }
-
-      id = R.id.back;
-      ImageView back = ViewBindings.findChildViewById(rootView, id);
-      if (back == null) {
-        break missingId;
-      }
-
-      id = R.id.bottom_sheet;
-      LinearLayout bottomSheet = ViewBindings.findChildViewById(rootView, id);
-      if (bottomSheet == null) {
-        break missingId;
-      }
-
       id = R.id.btn_follow;
       Button btnFollow = ViewBindings.findChildViewById(rootView, id);
       if (btnFollow == null) {
-        break missingId;
-      }
-
-      id = R.id.coverImag;
-      ImageView coverImag = ViewBindings.findChildViewById(rootView, id);
-      if (coverImag == null) {
         break missingId;
       }
 
@@ -168,27 +114,15 @@ public final class FragmentUserProfileBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.profilePic;
-      ImageView profilePic = ViewBindings.findChildViewById(rootView, id);
-      if (profilePic == null) {
+      id = R.id.profile_image;
+      ImageView profileImage = ViewBindings.findChildViewById(rootView, id);
+      if (profileImage == null) {
         break missingId;
       }
 
       id = R.id.rvPostVideo;
       RecyclerView rvPostVideo = ViewBindings.findChildViewById(rootView, id);
       if (rvPostVideo == null) {
-        break missingId;
-      }
-
-      id = R.id.scrollView;
-      NestedScrollView scrollView = ViewBindings.findChildViewById(rootView, id);
-      if (scrollView == null) {
-        break missingId;
-      }
-
-      id = R.id.toolbar;
-      Toolbar toolbar = ViewBindings.findChildViewById(rootView, id);
-      if (toolbar == null) {
         break missingId;
       }
 
@@ -204,9 +138,8 @@ public final class FragmentUserProfileBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentUserProfileBinding((FrameLayout) rootView, appBar, back, bottomSheet,
-          btnFollow, coverImag, followerLay, followingLay, message, profilePic, rvPostVideo,
-          scrollView, toolbar, topbar, username);
+      return new FragmentUserProfileBinding((LinearLayout) rootView, btnFollow, followerLay,
+          followingLay, message, profileImage, rvPostVideo, topbar, username);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

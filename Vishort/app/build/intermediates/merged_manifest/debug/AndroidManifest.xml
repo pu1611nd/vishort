@@ -69,6 +69,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Vishort" >
         <activity
+            android:name="com.tuan1611pupu.vishort.Activity.EditActivity"
+            android:exported="false" />
+        <activity
             android:name="com.tuan1611pupu.vishort.Activity.SettingActivity"
             android:exported="false" >
             <meta-data
@@ -119,13 +122,7 @@
         </activity>
         <activity
             android:name="com.tuan1611pupu.vishort.Activity.LogInActivity"
-            android:exported="true" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-
+            android:exported="false" >
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
@@ -140,7 +137,13 @@
 
         <activity
             android:name="com.tuan1611pupu.vishort.Activity.MainActivity"
-            android:exported="false" >
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
