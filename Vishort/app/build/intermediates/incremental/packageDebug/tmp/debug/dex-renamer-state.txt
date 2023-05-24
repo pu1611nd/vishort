@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Wed May 24 13:51:47 ICT 2023
 base.0=F\:\\AndroidProjects\\vishort\\Vishort\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=F\:\\AndroidProjects\\vishort\\Vishort\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
@@ -11,6 +12,25 @@ base.6=F\:\\AndroidProjects\\vishort\\Vishort\\app\\build\\intermediates\\dex\\d
 base.7=F\:\\AndroidProjects\\vishort\\Vishort\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
 base.8=F\:\\AndroidProjects\\vishort\\Vishort\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
 base.9=F\:\\AndroidProjects\\vishort\\Vishort\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+=======
+<<<<<<< HEAD
+#Fri May 19 00:46:53 ICT 2023
+=======
+#Sat May 13 16:39:44 ICT 2023
+>>>>>>> parent of 2635d34 (tuấn)
+path.4=15/classes.dex
+path.3=11/classes.dex
+path.2=1/classes.dex
+renamed.9=classes10.dex
+path.1=0/classes.dex
+renamed.8=classes9.dex
+path.8=6/classes.dex
+path.7=4/classes.dex
+path.6=3/classes.dex
+path.5=2/classes.dex
+renamed.11=classes12.dex
+renamed.10=classes11.dex
+>>>>>>> 201cb6e31368e39cb2001a582f3c35844085a3d3
 path.0=classes.dex
 path.1=0/classes.dex
 path.10=classes2.dex
