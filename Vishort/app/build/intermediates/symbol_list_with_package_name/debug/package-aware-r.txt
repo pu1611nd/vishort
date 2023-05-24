@@ -4015,9 +4015,11 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable button_text_color
+drawable camera
 drawable cameraview_focus_marker_fill
 drawable cameraview_focus_marker_outline
 drawable chat_line_round_svgrepo_com
+drawable close_circle_white
 drawable com_facebook_auth_dialog_background
 drawable com_facebook_auth_dialog_cancel_background
 drawable com_facebook_auth_dialog_header_background
@@ -4067,6 +4069,8 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable diamond
+drawable edit
+drawable edittext_cursor
 drawable exo_controls_fastforward
 drawable exo_controls_fullscreen_enter
 drawable exo_controls_fullscreen_exit
@@ -4198,6 +4202,7 @@ drawable icon_twitter
 drawable icon_upload_img
 drawable icon_user
 drawable image_plane
+drawable item_following_avt
 drawable light_blue_circle
 drawable light_theme_google_icon_selector
 drawable m3_appbar_background
@@ -4211,6 +4216,7 @@ drawable m3_tabs_background
 drawable m3_tabs_line_indicator
 drawable m3_tabs_rounded_line_indicator
 drawable m3_tabs_transparent_background
+drawable main_avt_pic
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -4280,13 +4286,17 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable play_circle_icon
 drawable post1
 drawable purple_pink_rect
 drawable radio_checked
 drawable radio_unchecked
+drawable right
 drawable selection_done
+drawable setting
 drawable shape_border
 drawable shape_chat_bg
+drawable shape_following
 drawable shape_gray_border
 drawable shape_lightblue
 drawable shape_offline
@@ -4296,6 +4306,7 @@ drawable shape_round_pink_purple
 drawable shape_search
 drawable share_svgrepo_com
 drawable shop
+drawable sign_out_icon
 drawable splash_logo
 drawable star_off
 drawable star_on
@@ -4400,7 +4411,6 @@ id animateToEnd
 id animateToStart
 id antiClockwise
 id anticipate
-id appBar
 id arc
 id asConfigured
 id async
@@ -4496,6 +4506,7 @@ id contentPanel
 id contiguous
 id continuousVelocity
 id coordinator
+id coordinatorLayout
 id cos
 id count
 id countdown
@@ -4561,6 +4572,9 @@ id endToStart
 id end_padder
 id enterAlways
 id enterAlwaysCollapsed
+id etBio
+id etEmail
+id etName
 id exitUntilCollapsed
 id exo_ad_overlay
 id exo_artwork
@@ -4672,7 +4686,6 @@ id home
 id homeAsUp
 id honorRequest
 id horizontal_only
-id ic_setting
 id icon
 id icon_group
 id icon_only
@@ -4685,6 +4698,7 @@ id imageInfo
 id imageView
 id imageview
 id imgSong
+id imgUser
 id immediateStop
 id incandescent
 id included
@@ -4727,6 +4741,7 @@ id lytLocation
 id lytPrivacy
 id lytSound
 id lytTop
+id lytimg
 id m3_side_sheet
 id marquee
 id masked
@@ -4847,12 +4862,11 @@ id player
 id player_view
 id position
 id postLayout
-id post_thumbnail
 id pressed
 id profile
 id profileLay
-id profilePic
 id profile_image
+id profilechar
 id progressBar
 id progressBar2
 id progress_bar
@@ -4873,6 +4887,7 @@ id rounded
 id row_index_key
 id rtl
 id rvChatUser
+id rvFollowers
 id rvPostVideo
 id rvReels
 id rvSearchUser
@@ -4929,6 +4944,7 @@ id showCustom
 id showHome
 id showTitle
 id sideLay
+id signout
 id sin
 id skipCollapsed
 id skipped
@@ -5057,11 +5073,14 @@ id unlabeled
 id up
 id upload
 id useLogo
+id userImg
 id userLay
+id userName
 id user_img
 id username
 id vertical_only
 id video
+id videoView
 id video_decoder_gl_surface_view
 id viewBackground
 id viewPageOTP
@@ -5203,6 +5222,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_edit
 layout activity_filter
 layout activity_log_in
 layout activity_login_with_phone
@@ -5253,12 +5273,14 @@ layout exo_styled_sub_settings_list_item
 layout exo_track_selection_dialog
 layout fragment_home
 layout fragment_list_user_chat
+layout fragment_main_profile
 layout fragment_notification
 layout fragment_notification_main
-layout fragment_profile
 layout fragment_seach_user
+layout fragment_user_follower
 layout fragment_user_profile
 layout item_chat_user_list
+layout item_following_list
 layout item_player_controler
 layout item_post_video
 layout item_reels
@@ -5525,6 +5547,9 @@ string fallback_menu_item_copy_link
 string fallback_menu_item_open_in_browser
 string fallback_menu_item_share_link
 string fb_login_protocol_scheme
+string follow
+string follower
+string followings
 string gcm_defaultSenderId
 string google_api_key
 string google_app_id
@@ -5532,6 +5557,7 @@ string google_crash_reporting_api_key
 string google_sign_in
 string google_sign_up
 string google_storage_bucket
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string home
 string icon_content_description
@@ -5652,6 +5678,7 @@ string searchview_navigation_content_description
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string status_bar_notification_info_overflow
+string user_bio
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

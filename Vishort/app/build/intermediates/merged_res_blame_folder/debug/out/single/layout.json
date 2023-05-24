@@ -1,98 +1,114 @@
 [
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_home.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\item_post_video.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_post_video.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/item_post_video.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_post_video.xml"
+        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_main_profile.xml",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_main_profile.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_list_user_chat.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_list_user_chat.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\activity_login_with_phone.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_login_with_phone.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/layout_no_internet.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/layout_no_internet.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_setting.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_user_profile.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_user_profile.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\fragment_user_follower.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_user_follower.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_login_with_phone.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_login_with_phone.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_notification_main.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_notification_main.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\item_search_user.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_search_user.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/partial_timer_sheet.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/partial_timer_sheet.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_register.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/item_chat_user_list.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_chat_user_list.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\fragment_notification_main.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_notification_main.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_register.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_register.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\item_chat_user_list.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_chat_user_list.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/item_video_effect.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_video_effect.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\layout_no_internet.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\layout_no_internet.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_notification.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_notification.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\activity_upload_video.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_upload_video.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_filter.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_filter.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\item_following_list.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_following_list.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_main.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_main.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\fragment_list_user_chat.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_list_user_chat.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_recorder.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_recorder.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/item_reels.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_reels.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\activity_recorder.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_recorder.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_log_in.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_log_in.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\activity_filter.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_filter.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/item_search_user.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_search_user.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\item_reels.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_reels.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/item_player_controler.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_player_controler.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\partial_timer_sheet.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\partial_timer_sheet.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_seach_user.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_seach_user.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\fragment_seach_user.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_seach_user.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_preview.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_preview.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\activity_preview.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_preview.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_upload_video.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_upload_video.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\fragment_notification.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_notification.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/activity_setting.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_setting.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\fragment_main_profile.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_main_profile.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-mergeDebugResources-53:/layout/fragment_profile.xml",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_profile.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\activity_log_in.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\item_video_effect.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_video_effect.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\item_player_controler.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_player_controler.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\fragment_user_profile.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-mergeDebugResources-53:\\layout\\activity_edit.xml",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_edit.xml"
     }
 ]

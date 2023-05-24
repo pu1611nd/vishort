@@ -4,7 +4,7 @@
             "outputFile": "com.tuan1611pupu.vishort.app-mergeDebugResources-52:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/Users/nguyentuan/.gradle/caches/transforms-3/e2be6c5495a727b53141a8928c63c238/transformed/appcompat-1.6.1/res/values-v28/values-v28.xml",
+                    "source": "C:\\Users\\nguye\\.gradle\\caches\\transforms-3\\e2be6c5495a727b53141a8928c63c238\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/nguyentuan/.gradle/caches/transforms-3/0aea37b41cefac78c65c0008744779cc/transformed/material-1.9.0/res/values-v28/values-v28.xml",
+                    "source": "C:\\Users\\nguye\\.gradle\\caches\\transforms-3\\0aea37b41cefac78c65c0008744779cc\\transformed\\material-1.9.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",

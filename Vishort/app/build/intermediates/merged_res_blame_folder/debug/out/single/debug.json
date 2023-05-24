@@ -1,622 +1,682 @@
 [
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_greadent_round.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_greadent_round.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_fragment_main_profile.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_main_profile.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-anydpi-v24_ic_heart_gradient.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-anydpi-v24/ic_heart_gradient.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_activity_upload_video.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_upload_video.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_gift.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/gift.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_bg_record_button.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\bg_record_button.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_slide_in_left.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/slide_in_left.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_baseline_search_24.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_trash.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_trash.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_round_check_24.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_round_check_24.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_item_search_user.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_search_user.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-anydpi-v24_icon_black_disk.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-anydpi-v24\\icon_black_disk.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-ldpi_icon_close.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-ldpi\\icon_close.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_round_pink_purple.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_round_pink_purple.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_icon_upload_img.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\icon_upload_img.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-hdpi_icon_black_disk.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-hdpi/icon_black_disk.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_white_transparwnt_circle.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\white_transparwnt_circle.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_seach_user.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_seach_user.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_gradient_round.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_gradient_round.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\font_montserratregular.ttf.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\font\\montserratregular.ttf"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-mdpi_icon_close.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-mdpi/icon_close.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_item_search_user.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_search_user.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_round_check_24.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_round_check_24.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_bg_gradient_round.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\bg_gradient_round.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_notification.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_notification.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xxxhdpi_share_svgrepo_com.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xxxhdpi\\share_svgrepo_com.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_slide_out_left.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/slide_out_left.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_bg_greadent_round.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\bg_greadent_round.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_speed.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_speed.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-hdpi_share_svgrepo_com.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-hdpi\\share_svgrepo_com.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_post1.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/post1.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_filter.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_filter.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-hdpi_icon_close.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-hdpi/icon_close.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_setting.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\setting.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_search.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_search.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\font_montserratbold.ttf.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\font\\montserratbold.ttf"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxhdpi_share_svgrepo_com.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxhdpi/share_svgrepo_com.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_speed.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_speed.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-hdpi_image_plane.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-hdpi/image_plane.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_shape_gray_border.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\shape_gray_border.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-hdpi_ic_heart_gradient.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-hdpi/ic_heart_gradient.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_fragment_seach_user.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_seach_user.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_round_keyboard_arrow_right_24.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_round_keyboard_arrow_right_24.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_stickers.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_stickers.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratmedium.ttf.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratmedium.ttf"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_fragment_user_follower.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_user_follower.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxxhdpi_image_plane.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxxhdpi/image_plane.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\font_montserratsemibold.ttf.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\font\\montserratsemibold.ttf"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-anydpi-v24_icon_black_disk.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-anydpi-v24/icon_black_disk.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-ldpi_ic_heart_gradient.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-ldpi\\ic_heart_gradient.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratsemibold.ttf.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratsemibold.ttf"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_post1.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\post1.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_lightblue.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_lightblue.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xhdpi_icon_black_disk.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xhdpi\\icon_black_disk.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_gray_border.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_gray_border.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_selection_done.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\selection_done.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_bottom_sheet.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_bottom_sheet.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_chat_line_round_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\chat_line_round_svgrepo_com.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_plane.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_plane.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_shape_online.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\shape_online.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_timer.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_timer.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xxhdpi_icon_close.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xxhdpi\\icon_close.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_white_strok.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/white_strok.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\font_montserratlight.ttf.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\font\\montserratlight.ttf"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_flip.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/flip.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_icon_twitter.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\icon_twitter.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_settings_24.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_settings_24.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xxhdpi_icon_black_disk.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xxhdpi\\icon_black_disk.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-mdpi_share_svgrepo_com.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-mdpi/share_svgrepo_com.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_gift.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\gift.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_notifications_24.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_notifications_24.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_item_video_effect.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_video_effect.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_selection_done.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/selection_done.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_baseline_add_24.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_background_button.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/background_button.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_layout_no_internet.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/layout_no_internet.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_shape_border.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\shape_border.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_girl.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/girl.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-anydpi-v24_ic_heart_gradient.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-anydpi-v24\\ic_heart_gradient.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_item_post_video.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_post_video.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_activity_filter.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_filter.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxhdpi_image_plane.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxhdpi/image_plane.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_shape_following.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\shape_following.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_upload_video.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_upload_video.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\xml_tabs.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\xml\\tabs.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxxhdpi_share_svgrepo_com.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxxhdpi/share_svgrepo_com.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-anydpi-v24_icon_close.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-anydpi-v24\\icon_close.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_user_profile.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_user_profile.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_unliked.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_unliked.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_zoom.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/zoom.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_flip.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\flip.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-mdpi_icon_black_disk.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-mdpi/icon_black_disk.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_notification_main.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_notification_main.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_sign_out_icon.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\sign_out_icon.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_slow_rotate.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/slow_rotate.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_shape_search.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\shape_search.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxxhdpi_ic_heart_gradient.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxxhdpi/ic_heart_gradient.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-ldpi_image_plane.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-ldpi\\image_plane.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_arrow_left_24.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_arrow_left_24.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_register.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/xml_backup_rules.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_fragment_notification.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_notification.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_background_input.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/background_input.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\anim\\slide_out_right.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratlight.ttf.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratlight.ttf"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_flash.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_flash.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratbold.ttf.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratbold.ttf"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_icon_save.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\icon_save.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_activity_recorder.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_recorder.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xhdpi_ic_heart_gradient.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xhdpi/ic_heart_gradient.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-hdpi_image_plane.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-hdpi\\image_plane.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_chat_line_round_svgrepo_com.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/chat_line_round_svgrepo_com.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-mdpi_ic_heart_gradient.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-mdpi\\ic_heart_gradient.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_diamond.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/diamond.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_baseline_home_24.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_slide_in_right.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/slide_in_right.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_shape_lightblue.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\shape_lightblue.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_btn_record_selected.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_btn_record_selected.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xhdpi_share_svgrepo_com.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xhdpi/share_svgrepo_com.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_shape_round_pink_purple.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\shape_round_pink_purple.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_main.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_main.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-anydpi-v24_share_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-anydpi-v24\\share_svgrepo_com.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_background_button_log.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/background_button_log.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_bg_greadent_round_10dp.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\bg_greadent_round_10dp.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_register.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_register.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_activity_login_with_phone.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_login_with_phone.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_flash.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_flash.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_activity_preview.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_preview.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_login_with_phone.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_login_with_phone.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_preview.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_preview.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_bg_btn_record_normal.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\bg_btn_record_normal.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-mdpi_image_plane.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-mdpi/image_plane.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_shape_pink_radius5.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\shape_pink_radius5.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_save.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_save.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_baseline_add_box_24.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_baseline_add_box_24.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_chat_bg.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_chat_bg.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_baseline_notifications_24.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_baseline_notifications_24.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-ldpi_ic_heart_gradient.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-ldpi/ic_heart_gradient.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_background10.jpg.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\background10.jpg"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_home.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\anim_bounce.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\anim\\bounce.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_item_player_controler.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_player_controler.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xxhdpi_image_plane.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xxhdpi\\image_plane.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratregular.ttf.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratregular.ttf"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_recorder.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_recorder.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-mdpi_share_svgrepo_com.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-mdpi\\share_svgrepo_com.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_bounce.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/bounce.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xhdpi_ic_heart_gradient.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xhdpi\\ic_heart_gradient.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratblack.ttf.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratblack.ttf"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xxhdpi_ic_heart_gradient.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xxhdpi\\ic_heart_gradient.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_add_24.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_add_24.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\font_montserratmedium.ttf.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\font\\montserratmedium.ttf"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_record_button.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_record_button.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_partial_timer_sheet.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\partial_timer_sheet.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-mdpi_ic_heart_gradient.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-mdpi/ic_heart_gradient.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_close_circle_white.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\close_circle_white.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_edit.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_edit.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-ldpi_share_svgrepo_com.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-ldpi\\share_svgrepo_com.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-hdpi_share_svgrepo_com.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-hdpi/share_svgrepo_com.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_splash_logo.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\splash_logo.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_music.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_music.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_item_following_avt.jpg.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\item_following_avt.jpg"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-ldpi_image_plane.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-ldpi/image_plane.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-hdpi_icon_black_disk.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-hdpi\\icon_black_disk.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_delete.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_delete.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_background_button.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\background_button.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_partial_timer_sheet.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/partial_timer_sheet.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_diamond.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\diamond.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_setting.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_setting.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_bg_round_pink.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\bg_round_pink.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_filter.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_filter.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_baseline_account_circle_24.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_light_blue_circle.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/light_blue_circle.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_layout_no_internet.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\layout_no_internet.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratthin.ttf.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratthin.ttf"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_shape_offline.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\shape_offline.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_home_24.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_home_24.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxhdpi_icon_black_disk.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxhdpi/icon_black_disk.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_timer.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_timer.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_fragment_user_profile.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_user_profile.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxxhdpi_icon_black_disk.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxxhdpi/icon_black_disk.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_background_button_log.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\background_button_log.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_item_reels.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_reels.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_delete.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_account_circle_24.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_account_circle_24.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_black_transpernt_squre.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\black_transpernt_squre.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_twitter.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_twitter.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\font_montserratextrabold.ttf.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\font\\montserratextrabold.ttf"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xxxhdpi_icon_close.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xxxhdpi\\icon_close.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_online.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_online.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_purple_pink_rect.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\purple_pink_rect.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/menu_menu_item.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/menu/menu_item.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_setting.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xhdpi_icon_close.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xhdpi/icon_close.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-mdpi_image_plane.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-mdpi\\image_plane.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/xml_tabs.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/xml/tabs.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxhdpi_ic_heart_gradient.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxhdpi/ic_heart_gradient.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_round_keyboard_arrow_right_24.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_round_keyboard_arrow_right_24.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_item_chat_user_list.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_chat_user_list.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xxhdpi_share_svgrepo_com.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xxhdpi\\share_svgrepo_com.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxxhdpi_icon_close.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxxhdpi/icon_close.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_main_avt_pic.jpg.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\main_avt_pic.jpg"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_purple_pink_rect.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/purple_pink_rect.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_search_24.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_search_24.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-anydpi-v24_image_plane.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-anydpi-v24/image_plane.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xhdpi_icon_close.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xhdpi\\icon_close.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-anydpi-v24_icon_close.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-anydpi-v24/icon_close.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_edit.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\edit.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-ldpi_share_svgrepo_com.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-ldpi/share_svgrepo_com.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xxxhdpi_ic_heart_gradient.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xxxhdpi\\ic_heart_gradient.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/xml_data_extraction_rules.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_background_input.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\background_input.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_greadent_round_10dp.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_greadent_round_10dp.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_fragment_notification_main.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_notification_main.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_filter.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_filter.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-ldpi_icon_black_disk.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-ldpi\\icon_black_disk.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_stickers.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_stickers.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_white_strok.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\white_strok.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_white_transparwnt_circle.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/white_transparwnt_circle.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-anydpi-v24_share_svgrepo_com.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-anydpi-v24/share_svgrepo_com.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_light_blue_circle.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\light_blue_circle.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_add_box_24.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_add_box_24.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_background10.jpg.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/background10.jpg"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\anim\\slide_in_left.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_bottom_sheet_corner.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_bottom_sheet_corner.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_item_chat_user_list.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_chat_user_list.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_item_player_controler.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_player_controler.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_icon_plane.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\icon_plane.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_item_video_effect.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/item_video_effect.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xxxhdpi_image_plane.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xxxhdpi\\image_plane.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_bg_btn_record_selected.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\bg_btn_record_selected.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xhdpi_image_plane.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xhdpi/image_plane.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_baseline_arrow_back_24.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_list_user_chat.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_list_user_chat.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xhdpi_share_svgrepo_com.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xhdpi\\share_svgrepo_com.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xhdpi_icon_black_disk.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xhdpi/icon_black_disk.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_bg_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\bg_bottom_sheet.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\menu_menu_item.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\menu\\menu_item.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_arrow_back_24.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_arrow_back_24.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_activity_log_in.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_log_in.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_icon_user.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\icon_user.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_btn_record_normal.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_btn_record_normal.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/font_montserratextrabold.ttf.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/font/montserratextrabold.ttf"
+        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_main_profile.xml.flat",
+        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_main_profile.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-ldpi_icon_black_disk.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-ldpi/icon_black_disk.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xxxhdpi_icon_black_disk.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xxxhdpi\\icon_black_disk.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_pink_radius5.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_pink_radius5.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_baseline_info_24.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_bg_round_pink.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/bg_round_pink.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_icon_edit.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\icon_edit.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-hdpi_icon_close.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-hdpi\\icon_close.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_baseline_info_24.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_baseline_info_24.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_right.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\right.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/anim_slide_out_right.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/anim/slide_out_right.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\anim_zoom.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\anim\\zoom.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_offline.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_offline.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_baseline_settings_24.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shape_border.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shape_border.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_activity_log_in.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/activity_log_in.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-ldpi_icon_close.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-ldpi/icon_close.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_play_circle_icon.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\play_circle_icon.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_shop.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/shop.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_bg_bottom_sheet_corner.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\bg_bottom_sheet_corner.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_black_transpernt_squre.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/black_transpernt_squre.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_girl.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\girl.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable-xxhdpi_icon_close.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-pngs-49:/drawable-xxhdpi/icon_close.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\anim\\slide_out_left.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_activity_edit.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\activity_edit.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_splash_logo.png.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/splash_logo.png"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-mdpi_icon_close.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-mdpi\\icon_close.png"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_ic_unliked.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/ic_unliked.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\anim_slow_rotate.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\anim\\slow_rotate.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_upload_img.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_upload_img.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_item_reels.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_reels.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\anim\\slide_in_right.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/drawable_icon_user.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/drawable/icon_user.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_ic_baseline_arrow_left_24.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\ic_baseline_arrow_left_24.xml"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\font_montserratthin.ttf.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\font\\montserratthin.ttf"
     },
     {
-        "merged": "com.tuan1611pupu.vishort.app-merged_res-54:/layout_fragment_profile.xml.flat",
-        "source": "com.tuan1611pupu.vishort.app-main-56:/layout/fragment_profile.xml"
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_fragment_list_user_chat.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_list_user_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\font_montserratblack.ttf.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\font\\montserratblack.ttf"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_camera.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_icon_trash.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\icon_trash.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_shape_chat_bg.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\shape_chat_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-hdpi_ic_heart_gradient.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-hdpi\\ic_heart_gradient.png"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_edittext_cursor.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\edittext_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-anydpi-v24_image_plane.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-anydpi-v24\\image_plane.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_shop.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\shop.png"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-xhdpi_image_plane.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-xhdpi\\image_plane.png"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_item_following_list.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_following_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable-mdpi_icon_black_disk.png.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-pngs-49:\\drawable-mdpi\\icon_black_disk.png"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\layout_item_post_video.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\layout\\item_post_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-merged_res-54:\\drawable_icon_music.xml.flat",
+        "source": "C:\\Users\\nguye\\.gradle\\daemon\\7.4\\com.tuan1611pupu.vishort.app-main-56:\\drawable\\icon_music.xml"
     }
 ]

@@ -1,6 +1,5 @@
 package com.tuan1611pupu.vishort.Activity;
 
-import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.fragment.app.FragmentTransaction;
@@ -10,22 +9,15 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Toast;
 
-import com.google.firebase.firestore.DocumentReference;
-import com.google.firebase.firestore.FieldValue;
-import com.google.firebase.firestore.FirebaseFirestore;
-import com.iammert.library.readablebottombar.ReadableBottomBar;
 import com.tuan1611pupu.vishort.Fragment.HomeFragment;
 import com.tuan1611pupu.vishort.Fragment.NotificationFragment;
-import com.tuan1611pupu.vishort.Fragment.ProfileFragment;
+import com.tuan1611pupu.vishort.Fragment.MainProfileFragment;
 import com.tuan1611pupu.vishort.Fragment.SearchUserFragment;
+import com.tuan1611pupu.vishort.Fragment.UserProfileFragment;
 import com.tuan1611pupu.vishort.R;
-import com.tuan1611pupu.vishort.Utilities.Constants;
 import com.tuan1611pupu.vishort.Utilities.PreferenceManager;
 import com.tuan1611pupu.vishort.databinding.ActivityMainBinding;
-
-import java.util.HashMap;
 
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
@@ -40,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         preferenceManager = new PreferenceManager(getApplicationContext());
 
         setSupportActionBar(binding.toolbar);
-        MainActivity.this.setTitle("My Profile");
+        //MainActivity.this.setTitle("My Profile");
 
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
         binding.toolbar.setVisibility(View.GONE);
@@ -66,42 +58,40 @@ public class MainActivity extends AppCompatActivity {
                     break;
                 case 3:
                     binding.toolbar.setVisibility(View.GONE);
-                    transaction1.replace(R.id.container,new NotificationFragment());
+                    transaction1.replace(R.id.container,new UserProfileFragment());
                     break;
                 case 4:
-                    binding.toolbar.setVisibility(View.VISIBLE);
-                    transaction1.replace(R.id.container,new ProfileFragment());
+                    binding.toolbar.setVisibility(View.GONE);
+                    transaction1.replace(R.id.container,new MainProfileFragment());
                     break;
             }
             transaction1.commit();
         });
 
-        binding.toolbar.setOnMenuItemClickListener(new Toolbar.OnMenuItemClickListener() {
-            @Override
-            public boolean onMenuItemClick(MenuItem item) {
-
-                if (item.getItemId() == R.id.ic_setting) {
-                    Intent intent = new Intent(getApplicationContext(),SettingActivity.class);
-                    startActivity(intent);
-                    return true;
-                }else {
-
-                    return false;
-                }
-            }
-
-        });
+//        binding.toolbar.setOnMenuItemClickListener(new Toolbar.OnMenuItemClickListener() {
+//            @Override
+//            public boolean onMenuItemClick(MenuItem item) {
+//                if (item.getItemId() == R.id.ic_setting) {
+//                    Intent intent = new Intent(getApplicationContext(),SettingActivity.class);
+//                    startActivity(intent);
+//                    return true;
+//                }else {
+//
+//                    return false;
+//                }
+//            }
+//
+//        });
     }
 
 
 
 
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.menu_item,menu);
-
-        return true;
-    }
+//    @Override
+//    public boolean onCreateOptionsMenu(Menu menu) {
+//        getMenuInflater().inflate(R.menu.menu_item,menu);
+//        return true;
+//    }
 
 }
